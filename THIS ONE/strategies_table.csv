@@ -19,6 +19,35 @@ Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-122321,Qwen2.5-7B-Instruct,HSK4,claude_c
 Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-124559,Qwen2.5-7B-Instruct,HSK4,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),你可以选择其中一个场景，用刚才学到的词汇和句型进行模拟对话。这样不仅能提高你的口语能力，还能帮助你更好地理解不同情景下的表达方式。如果你愿意，可以尝试再次练习另一个场景。,老师列出“旅游计划/职业规划/健康与饮食”三个场景供学生自由选择，下一轮学生确实选择了“旅游计划”并展开，S1成立。
 Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-125030,Qwen2.5-7B-Instruct,HSK4,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),你好！你想聊些什么？是想练习对话，还是有其他问题想要解决呢？,开场老师即给出“练习对话/其他问题”的选项，将话题决定权交给学生；下一轮学生确实选择了练习对话并具体提出问路、点餐等方向，S1成立。
 Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-131741,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),你是否有兴趣尝试其中某一类别的书？或者你已经有了一些新的选择？我们可以一起讨论并决定接下来读些什么。,老师列出文学小说/心理学著作/历史文化书籍/哲学经典四大类供学生选择，下一轮学生确实综合挑选了《红楼梦》《少有人走的路》《中国古代史纲要》，S1成立。
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135349,Qwen2.5-7B-Instruct,HSK7,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),你对哪种类型更感兴趣呢？,给出书籍/电影两类候选，把接下来聊哪类的决定权交给学生；下一轮学生确实选择了科幻类并被老师采纳
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135349,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你还有其他想要了解的内容吗？,开放式邀请学生自定下一步想聊的内容；下一轮学生据此提出了提高汉语水平/预习步骤两个新问题，老师照此回应
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135927,Qwen2.5-7B-Instruct,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),有没有什么有趣的事情想和我分享的？,开场轮开放式邀请学生自选分享内容；学生随后自由谈及新单词、野餐、踢足球等自选话题
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135927,Qwen2.5-7B-Instruct,HSK7,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),你喜欢哪种类型的书？是小说、历史还是其他类型？,给出小说/历史/其他等候选类型的or-choice问题，把话题决定权交给学生；下一轮学生据此选择并展开回答
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),我们聊点什么好呢？比如你最近有没有看什么有趣的书或者电影？,开场轮开放式问题，给出书/电影作为示例但未强行代选；学生据此自选了书籍与电影话题
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你有时间再分享一部感兴趣的书籍或电影给我听听吗？,邀请学生自选并分享新的书籍或电影；下一轮学生确实主动推荐了《许三观卖血记》，老师随后跟进
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),请问你是否有兴趣进行这样的模拟采访，还是你想先进一步谈谈这两本书的主题和情感？,还是-式or-choice问题；下一轮学生明确选择先讨论主题情感，老师照此跟进
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),"你还有什么问题或者需要补充的地方吗？
+
+如果一切满意，那就让我们再次总结一下，巩固今天的收获。如果还有其他话题或者其他小说或电影想要讨论，随时告诉我！","以两个条件分句给出""总结""或""聊新话题""两条路径，把选择权交给学生；下一轮学生选择了做总结，老师随后跟进该总结"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),现在，请你针对上述例子谈谈你的感受，或者我们可以继续探讨其他方面。,或者-式or-choice问题，给学生选择继续谈感受还是转向其他方面的权力
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),请分享你对这些具体场景的感受，或者选择一个方面进行探讨。比如，你可以谈谈你最喜欢的搞笑场景，并说明为什么这部分让你印象深刻。,"再次以或者-式给出选择，并辅以""比如""示例；下一轮学生据此选择继续深入讨论具体场景与人物性格"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),有什么新鲜事可以和我分享吗？,开场轮开放式邀请，学生随后自选分享成语学习这一话题
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),你学过的成语里哪个是你最喜欢的？为什么喜欢它？,"把""接下来聊哪个成语""的决定权交给学生；下一轮学生选择了""一箭双雕""并展开"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你还有其他喜欢的成语吗？或者有没有什么具体情境可以用到这些成语的？,"或者-式or-choice，给学生选择分享新成语或分享情境的权力；下一轮学生自选分享了""随波逐流"""
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),你是否有某个特定的话题或者情境，希望我们围绕这个话题进行深入探讨呢？或者你还有其他的成语想要分享和学习的？,或者-式给出两条路径，学生随后选择深入练习已给出的四个成语
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),你还有其他的话题或者情境希望我们围绕这些成语进行深入探讨吗？或者你还有其他成语想要分享和学习的？,"重复出现的或者-式邀请；下一轮学生据此补充了""守株待兔""这一新成语"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,13,S1,放弃话题控制 (relinquish topic control),你还有什么其他的话题或成语想要分享和学习的吗？,"开放式邀请；下一轮学生据此补充了""掩耳盗铃""""塞翁失马""两个新成语"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),你对这些新的成语感兴趣吗？有没有其他话题或者成语想要进一步探讨的？,开放式邀请，学生下一轮选择继续深入已有成语内容
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),你对这些新的成语感兴趣吗？有没有其他话题或者成语想要进一步探讨的？,同一收尾句式再次出现（presence原则，逐次出现均标注）
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),你最近有没有学习什么新的话题或者遇到什么有趣的事情？,开场轮开放式邀请；学生自选了传统节日这一话题
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你对未来还有什么其他的想法或期望？或者是想了解更多有关太空探索的信息？,或者-式给出两条路径，下一轮学生两者都有回应（补充期望+提出探月工程等新问题）
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),你可以选择自己感兴趣的方面深入了解，也可以关注国际间的交流合作动态，这对理解全球太空探索的趋势非常重要。,把接下来深入哪个方向的决定权交给学生；下一轮学生明确选定阿尔忒弥斯计划和嫦娥六号任务
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),你是否对某个具体的项目或国家的探索计划感到特别好奇呢？我们可以一起探讨一下。,再次给出选择邀请
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),你可以选择感兴趣的项目进行更深入的了解，或者我们一起探讨更多具体的案例。,或者-式选择，学生随后自选阿尔忒弥斯计划和嫦娥六号任务深入探讨
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),你对哪个具体的项目或案例最感兴趣？我们可以进一步讨论。,延续同一or-choice邀请的直接问句形式
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,13,S1,放弃话题控制 (relinquish topic control),如果你有任何其他具体问题，或是想要进一步讨论某个方面，请告诉我，我会尽力为你解答。,开放式邀请学生提出后续问题或方向
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),请问你对哪一方面最感兴趣？或者你想先了解哪方面的具体内容？我们可以从那里开始继续我们的对话。,或者-式给出选择，下一轮学生明确选定猎户座飞船技术细节这一方向
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),我们可以继续讨论其他方面，也可以转向下一个主题。,也可以-式or-choice，学生下一轮选择继续追问飞船相关的新问题而非转换主题
 Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085035,Qwen2.5-7B-Instruct,HSK7,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),"你想从哪一个方面开始描述？我们可以从以下几个方面入手：
 - 春联和灯笼的布置
 - 热闹的庆祝活动
@@ -26,11 +55,32 @@ Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085035,Qwen2.5-7B-Instruct,HSK7,claude_c
 - 礼物赠送
 
 你觉得从哪个方面开始比较合适？或者你有其他的想法？请告诉我！",老师列出春联灯笼/庆祝活动/家庭聚餐/礼物赠送四个方面供学生选择，下一轮学生确实选择了“春联和灯笼的布置”并展开描述，S1成立。
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),有没有什么有趣的事情想要分享的？,开场轮开放式邀请；学生自选分享爬山遇梅花鹿之事
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你最近是否有看什么有趣的书籍或者电影？,开放式邀请学生自选分享的书籍或电影；下一轮学生自选谈及历史书、纪录片、《西游记》动画片
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),你可以详细说说你最喜欢哪一部分，或者是哪个角色，这样我可以更好地理解你的感受。,把接下来具体聊《西游记》哪个角色/情节的决定权交给学生；下一轮学生选择详述孙悟空、猪八戒等
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),如果你有关于环保或其他方面的书籍或纪录片推荐，也非常欢迎。,邀请学生自选分享环保类推荐；下一轮学生据此谈到自然保护纪录片
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),你还有其他想聊的内容吗？比如旅游、美食或者其他文化话题？,开放式邀请并给出旅游/美食等示例选项；下一轮学生自选谈及兵马俑、故宫、广东早茶等
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),既然你提到了这么多有趣的话题，我们可以从其中一个开始深入探讨。比如说，你最喜欢《西游记》中的哪个故事情节，或是你打算什么时候去陕西和北京参观？或者你觉得《三体》中最吸引你的部分是什么？,给出多个候选方向供学生选择；下一轮学生明确选择了《西游记》具体情节
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),选一个你想聊聊的内容，我们可以一起深入了解。,延续同一邀请，直接请学生做选择
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),你对哪一个故事情节感兴趣呢？我们再进一步探讨。,"把选哪个情节深入讨论的决定权交给学生；下一轮学生选择了""真假美猴王"""
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,13,S1,放弃话题控制 (relinquish topic control),"那么，你觉得我们应该着重讨论哪个角度呢？例如：
+- 角色之间的互动及其心理变化？
+- 智慧与欺骗之间的博弈？
+- 忠诚与信任的关系？
+- 故事带给我们的启示和教训？
+
+请告诉我你的想法，我们可以就此展开进一步的讨论。",给出四个候选讨论角度供学生选择；下一轮学生选择逐一覆盖全部四个角度，老师照此跟进
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),你觉得从哪个具体点开始更好呢？,"把具体切入点的决定权交给学生；下一轮学生选择了""真悟空的心理变化"""
+google--gemma-3-12b-it|HSK1|20260304-184910,gemma-3-12b-it,HSK1,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天我们聊什么呢？你想练习什么？,开场轮开放式邀请学生自选练习内容；学生随后选择了购物对话练习
+google--gemma-3-12b-it|HSK1|20260304-185217,gemma-3-12b-it,HSK1,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天我们聊什么呢？,开场轮开放式邀请；学生随后主动提议聊老师最喜欢的食物
 google--gemma-3-12b-it|HSK1|20260304-190219,gemma-3-12b-it,HSK1,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),现在轮到你问我一个问题了。,明确将话题决定权交给学生，让学生自己提问；下一轮学生确实反问老师喜欢吃什么食物，S1成立。
 google--gemma-3-12b-it|HSK1|20260304-190957,gemma-3-12b-it,HSK1,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),你有一只猫吗？,隐式放弃话题控制：顺着学生上一轮(t=10)主动提出的'猫'话题继续问下去
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),"Do you want to talk about something specific, or shall we just start chatting? 你想聊什么？",开放式提问把话题决定权交给学生；下一轮学生提出聊爱好，老师在t=3明确跟随该话题，确认S1成立
 google--gemma-3-12b-it|HSK1|20260304-192949,gemma-3-12b-it,HSK1,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),你想聊什么？,显式放弃话题控制，询问学生想聊什么；t=2学生提出'爱好'话题后，t=3老师确实跟随该话题，证实为真放弃而非伪放弃
 google--gemma-3-12b-it|HSK1|20260304-192949,gemma-3-12b-it,HSK1,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),爱好？(Àihào?) Hobbies? 太好了！(Tài hǎo le!) Great! 你有什么爱好？,隐式放弃话题控制的实现：顺着学生在t=2主动提出的'爱好'话题继续问下去
 google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),你有什么问题吗？(Nǐ yǒu shénme wèntí ma?) Do you have any questions? 或者你想练习些什么呢？,结构上符合or-choice式的显式话题放弃(提问/练习内容任选)；但这是对话中的最后一个教师话轮，此后没有更多教师轮次可供检验老师是否会真正跟随学生的选择，是否为真放弃无法验证
+google--gemma-3-12b-it|HSK4|20260418-101818,gemma-3-12b-it,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你觉得哪个部分最难？ 是发音，还是语法，或者学习成千上万个汉字？,or-choice提供发音/语法/汉字三个选项，学生选择'汉字'后，老师在t=7明确跟随该选择深入讨论，确认S1成立
+google--gemma-3-12b-it|HSK4|20260418-101818,gemma-3-12b-it,HSK4,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),你现在想用部首来分析哪个汉字？,把选择下一个要分析的汉字的决定权交给学生；学生选择'好'字后，老师在t=13确实分析该字，确认S1成立
 google--gemma-3-12b-it|HSK4|20260418-124420,gemma-3-12b-it,HSK4,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天你想聊什么呢？或者，我们来玩个小游戏怎么样？,显式放弃话题控制并提供or-choice(自由话题/问答小游戏)；t=2学生选择游戏，t=3起老师建立并贯彻'轮流提问'的互惠问答框架，证实为真放弃
 google--gemma-3-12b-it|HSK4|20260418-124420,gemma-3-12b-it,HSK4,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),现在该你问我了！ 你想知道关于什么呢？,显式话题控制交接(游戏规则内的轮流提问)；t=8学生真实提出新问题(专业)，证实为真放弃
 google--gemma-3-12b-it|HSK4|20260418-144237,gemma-3-12b-it,HSK4,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),那我们来聊聊科幻电影吧。,隐式放弃话题控制：顺着学生在t=2主动提出的具体兴趣(科幻片)继续话题，而非停留在t=1泛泛列出的选项上
@@ -44,6 +94,7 @@ google--gemma-3-12b-it|HSK4|20260418-152121,gemma-3-12b-it,HSK4,claude_candidate
 google--gemma-3-12b-it|HSK4|20260418-152121,gemma-3-12b-it,HSK4,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),你更倾向于哪种类型的作品呢？,在给出两部具体推荐作品(《受活》/《琅琊榜》)后，把选择哪部继续深入讨论的决定权交给学生；t=12学生选择《受活》，t=13老师真实跟随
 google--gemma-3-12b-it|HSK4|20260418-152121,gemma-3-12b-it,HSK4,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),你想继续聊聊之前提到的电影或书籍， 还是换个话题呢？,or-choice式放弃话题控制(继续原话题 vs 换话题)，t=16学生选择换成'去中国旅游'这一全新话题，t=17老师真实跟随，证实为真放弃
 google--gemma-3-12b-it|HSK4|20260418-152121,gemma-3-12b-it,HSK4,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),是历史文化类， 自然风光类， 还是美食类？,or-choice式放弃话题控制(三种景点类型任选)；此为该对话数据中最后一个教师话轮，此后无更多教师轮次可验证是否真正跟随学生的选择
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天你想聊些什么呢？或者，你有没有什么想练习的题目或话题？,开放/or-choice式提问，学生提出想聊周末计划或电影后，老师在t=3明确从周末计划开始，确认S1成立
 google--gemma-3-12b-it|HSK4|20260418-153131,gemma-3-12b-it,HSK4,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),随便选一个你觉得容易说的。,显式放弃话题控制，在给出几个爱好示例后把具体选哪个交给学生；t=4学生选择'看书/科幻小说'，证实为真放弃
 google--gemma-3-12b-it|HSK4|20260418-153131,gemma-3-12b-it,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),比如：你喜欢哪位科幻作家？或者你读过哪些科幻小说？,or-choice式放弃话题控制(作家 vs 具体作品)，t=6学生对两者均有回应(刘慈欣及其作品、阿西莫夫)
 google--gemma-3-12b-it|HSK4|20260418-153131,gemma-3-12b-it,HSK4,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),你除了喜欢看科幻小说之外，还有其他的爱好吗？,显式开放式问题('开放式的问题'为老师自陈)，把下一个具体爱好话题完全交给学生决定；t=10学生自主引入两个全新的爱好(画画、烹饪)，证实为真放弃
@@ -51,6 +102,15 @@ google--gemma-3-12b-it|HSK4|20260418-153559,gemma-3-12b-it,HSK4,claude_candidate
 google--gemma-3-12b-it|HSK4|20260418-153559,gemma-3-12b-it,HSK4,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),你准备的考试是什么？是 HSK 吗？还是其他考试？,or-choice形式（是HSK吗？还是其他考试？），把具体方向的确定权交给学生。
 google--gemma-3-12b-it|HSK4|20260418-153559,gemma-3-12b-it,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你有什么特别想练习的句子或者话题吗？,完全开放的问题；下一轮学生提出练习描述风景的新话题，t=7教师确实顺着走，S1成立。
 google--gemma-3-12b-it|HSK4|20260418-153559,gemma-3-12b-it,HSK4,claude_candidate,13,S1,放弃话题控制 (relinquish topic control),你有什么想到的或者想练习的吗？,开放式问题；下一轮学生提出想练习讲故事，t=15老师认可并约定下次配合，S1成立。
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天你想聊些什么呢？或者，我们可以先从简单的自我介绍开始吗？,or-choice提供'自由话题'或'自我介绍'两个选项，学生选择自我介绍后，老师在t=3跟随进行自我介绍式提问，确认S1成立
+google--gemma-3-12b-it|HSK4|20260418-160733,gemma-3-12b-it,HSK4,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天你想聊些什么呢？ 或者，你最近在学什么有趣的课吗？,or-choice提供开放话题或'最近课程'选项，学生提及中国历史课后，老师在t=3跟随该话题展开，确认S1成立
+google--gemma-3-12b-it|HSK4|20260418-160733,gemma-3-12b-it,HSK4,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),你对哪个历史时期最感兴趣？ 是秦汉时期，还是明清时期？,or-choice提供秦汉/明清两个历史时期，学生选择了另一个时期（唐朝），老师在t=5完全跟随唐朝话题，确认S1成立（决定权确实交给了学生）
+google--gemma-3-12b-it|HSK4|20260418-160733,gemma-3-12b-it,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你对这三个方面有没有特别感兴趣的？或者，你还想了解唐朝的其他什么事情呢？,or-choice提供三个子话题及开放选项，学生选择'丝绸之路'，老师在t=7跟随该子话题，确认S1成立
+google--gemma-3-12b-it|HSK4|20260418-160733,gemma-3-12b-it,HSK4,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),你想更深入地了解哪个方面呢？ 比如说，你想知道更多关于佛教在中国传播的故事吗？,提供选择+具体建议，学生选择佛教传播/玄奘取经故事，老师在t=11完全跟随，确认S1成立
+google--gemma-3-12b-it|HSK4|20260418-160733,gemma-3-12b-it,HSK4,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),你对哪个话题最感兴趣呢？,老师列出节日/美食/名胜古迹等候选话题集合，学生选择'中国美食'，老师在t=17跟随该话题，确认S1成立
+google--gemma-3-12b-it|HSK4|20260418-161200,gemma-3-12b-it,HSK4,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天你想聊些什么呢？我们可以谈谈你的爱好，或者最近发生的事情都可以。你觉得怎么样？,or-choice提供爱好/最近发生的事情两个选项，学生选择'最近的事情'并提到学做中国菜，老师在t=3跟随该话题，确认S1成立
+google--gemma-3-12b-it|HSK4|20260418-161200,gemma-3-12b-it,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你觉得学习中国菜最困难的地方是什么？ 是买食材吗？ 还是烹饪技巧？,or-choice提供'买食材'或'烹饪技巧'两个选项，学生选择'买食材'，老师在t=7完全跟随该话题，确认S1成立
+google--gemma-3-12b-it|HSK4|20260418-161200,gemma-3-12b-it,HSK4,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),你还想了解哪种调味料的名字呢？ 或者你想让我帮你找找纽约市附近亚洲超市的地址？,or-choice提供'了解更多调味料名称'或'查找超市地址'两个选项，学生选择前者（询问豆瓣酱），老师在t=11跟随，确认S1成立
 google--gemma-3-12b-it|HSK7|20260418-165705,gemma-3-12b-it,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),或者，我们可以讨论一下你学习中文的感受和目标。,or-choice形式给出的替代话题选项，与codebook正例“？或者，”结构一致。
 google--gemma-3-12b-it|HSK7|20260418-165705,gemma-3-12b-it,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),另外，你觉得下次我们继续聊聊中国的其他菜系怎么样？ 比如，粤菜、淮扬菜、或者京菜？ 你对哪种菜系比较感兴趣？,给出候选菜系集合(粤菜/淮扬菜/京菜)并明确征询“你对哪种菜系比较感兴趣”；下一轮学生选定粤菜，t=9老师跟进，S1成立。
 google--gemma-3-12b-it|HSK7|20260418-165705,gemma-3-12b-it,HSK7,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),对了，你现在对中国菜系的了解有多少了？ 想继续聊聊其他的菜系吗？ 比如，淮扬菜，以其刀工精细和口味清淡著称。 或者，你对东北菜 (Dōngběi cài) 感兴趣吗？ 那可是出了名的量大实惠！,候选话题(淮扬菜/东北菜)+征询意见；下一轮学生选择东北菜，t=13老师跟进，S1成立。
@@ -70,19 +130,66 @@ google--gemma-3-12b-it|HSK7|20260418-181210,gemma-3-12b-it,HSK7,claude_candidate
 google--gemma-3-12b-it|HSK7|20260419-230131,gemma-3-12b-it,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天你想聊些什么呢？或者，你最近在学习哪些有趣的材料吗？我们可以从那里开始讨论。,开场轮开放式问题+候选方向；学生提出静夜思相关话题，t=3老师顺着走，S1成立。
 google--gemma-3-12b-it|HSK7|20260419-230131,gemma-3-12b-it,HSK7,claude_candidate,13,S1,放弃话题控制 (relinquish topic control),你最近有没有看过什么感兴趣的书籍或者电影呢？或者，你想聊聊你学习中文过程中遇到的困难和趣事？,开放问题+or-choice(书籍/电影 或 学习中文的困难趣事)；下一轮学生对两方面都作答，t=15老师均有回应，S1成立。
 google--gemma-3-12b-it|HSK7|20260419-230131,gemma-3-12b-it,HSK7,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),你觉得学习一门语言，仅仅是为了掌握沟通的能力，还是说还有更深层次的目的和意义？欢迎畅所欲言！,开放式哲学问题，“欢迎畅所欲言”明确交出话题深度和方向的控制权。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),或者你想聊些什么话题呢？我们可以讨论一下时事新闻，文化艺术，甚至是一些比较专业的领域。,开场轮次，老师用开放问句+候选话题清单把话题决定权交给学生；学生随后自选电影话题，老师在下一轮跟随。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),关于科幻电影，你更偏爱哪种类型？ 例如，是那种充满哲学思辨的，还是那种以视觉效果取胜的？,开放问句+or-choice（哲学思辨/视觉效果），决定接下来讨论科幻电影的方向；学生下一轮选择'有深度和思考性的'一类，老师跟随。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),你更倾向于哪个类型的作品呢？ 或者你希望我根据你的喜好推荐其他的书籍？,or-choice：在给定书目中选一类，或完全另荐——决定权交给学生，学生下一轮明确说明偏好。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),为了更好地为你推荐书籍，你能告诉我你喜欢哪种类型的文学作品吗？ 比如你更喜欢现代小说，古典名著，还是其他类型的作品呢？,开放问句+or-choice（现代小说/古典名著/其他），决定后续推荐方向；学生下一轮明确选择现代小说。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),阅读之外，你平时还会通过哪些途径来提升你的中文水平呢？ 比如看新闻，听广播，还是其他方法？,'阅读之外'标记从书籍推荐转向学习方法话题的边界；同时是开放问句+举例式or-choice，决定权交给学生，学生下一轮具体回答了看新闻、听播客。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),最后提一个问题，你觉得在学习中文的过程中，最大的困难是什么？ 是语法，词汇，还是发音？,'最后提一个问题'标记转向新话题（学习难点）的边界；同时是开放问句+or-choice，学生下一轮具体回答了词汇量不足、汉字量大。
+google--gemma-3-12b-it|HSK7|20260420-002254,gemma-3-12b-it,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天你想聊些什么呢？最近有什么有趣的事情发生吗？或者，你想讨论一下某个话题，比如你读过的书、看过的电影，或者对社会现象的一些看法都可以。,开场轮次，开放问句+候选话题清单（书/电影/社会现象），学生随后自选电影话题，老师跟随。
+google--gemma-3-12b-it|HSK7|20260420-002254,gemma-3-12b-it,HSK7,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),如果不想继续聊这部电影， 科幻小说也是个不错的选择，你最喜欢的科幻小说是什么？ 为什么？,显式给出选择：继续聊这部电影，或转向科幻小说；学生下一轮转向了三体等科幻小说话题，老师跟随。
+google--gemma-3-12b-it|HSK7|20260420-002254,gemma-3-12b-it,HSK7,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),接下来， 你希望继续讨论这些话题， 还是想尝试其他主题？,'接下来'标记边界；同时是显式or-choice（继续当前话题/换新主题），把决定权交给学生，学生下一轮选择了转向中国书法话题，老师跟随。
+google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),今天你想聊些什么呢？ 最近有什么让你感兴趣的事情吗？ 或者，我们可以讨论一下你正在学习的专业课程，看看能不能用中文交流一下。,开场轮次，开放问句把话题决定权交给学生；学生随后自选四川美食话题，老师跟随。
+google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你继续保持这种积极的态度，相信你会做出美味的麻婆豆腐的！ 😉 现在，你还有什么疑问吗？ 或者，我们可以在接下来的对话中继续探讨川菜的其他食材和烹饪技巧。,开放问句（你还有什么疑问吗）+备选（继续探讨其他食材烹饪技巧），学生下一轮提出了火候、花椒辣椒的新问题。
+google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),你还有什么想了解的吗？ 我们还可以聊聊其他经典的川菜，比如宫保鸡丁、回锅肉等等！ 😄,开放问句+候选菜品清单，学生下一轮就宫保鸡丁、回锅肉提问，老师跟随。
+google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),希望这些信息对你有帮助！😊 下次我们可以聊聊川菜中的特色面食或者甜品！ 你想先听哪个？,'下次我们可以聊聊...'标记转向新的菜品类别（面食/甜品）；同时是显式or-choice，学生下一轮选择了面食，老师跟随。
+google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),这些面食是不是也勾起了你的食欲？下次有机会的话，不妨亲自尝试一下！ 😉 你对哪种面食更感兴趣？ 想先了解更多关于它们的制作方法吗？,开放问句，在刚列出的多种面食候选中选一种深入，学生下一轮明确选择钟水饺。
+google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,claude_candidate,13,S1,放弃话题控制 (relinquish topic control),你对钟水饺的制作方法这么感兴趣，看来你对川菜的兴趣真是与日俱增啊！ 😊 下次有机会，不妨自己动手尝试一下，相信你会爱上它的！ 你还想了解川菜的哪些方面呢？,开放问句，把接下来讨论方向交给学生；学生下一轮提出想了解调味料整体。
+google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),你想进一步了解哪个调味料呢？ 或者，我们可以一起探讨川菜的调味哲学？,显式or-choice（具体调味料/调味哲学），学生下一轮选择继续问花椒等具体调味料。
+google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),希望这些信息对你有所帮助！ 你还想了解川菜的哪些方面呢？ 或者，你对烹饪红油有什么心得体会吗？,开放问句+备选，学生在下一轮（也是对话最后一轮）直接分享了关于制作红油的心得体会，采纳了备选项。
 google--gemma-3-12b-it|HSK7|20260420-013339,gemma-3-12b-it,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),或者，你有什么想练习的方面吗？比如讨论一个话题、模拟某个场景，还是检查一下你的语法和用词？,候选练习方向清单(话题讨论/场景模拟/语法检查)，把方向决定权交给学生；学生选择场景模拟(餐馆点菜)，t=3老师跟进，S1成立。
 google--gemma-3-12b-it|HSK7|20260420-013339,gemma-3-12b-it,HSK7,claude_candidate,13,S1,放弃话题控制 (relinquish topic control),下次你想练习什么主题呢？,开放式问题，把下次练习主题的决定权交给学生；下一轮学生提出旅游话题，t=15老师跟进，S1成立。
 google--gemma-3-12b-it|HSK7|20260420-013339,gemma-3-12b-it,HSK7,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),你有没有特别想分享的国家或城市？或者你想侧重于描述哪些方面的体验，比如风景、美食、人文等等？,候选方面(国家城市/风景美食人文等)，把具体方向交给学生；下一轮学生选定京都及具体细节，t=17老师跟进，S1成立。
 google--gemma-3-12b-it|HSK7|20260420-021554,gemma-3-12b-it,HSK7,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),话说回来，你平时关注哪些新闻或话题呢？ 是更感兴趣科技发展，文化艺术，还是国际政治？,候选方向(科技发展/文化艺术/国际政治)+征询意见；下一轮学生逐一回应，t=7老师跟进文化艺术方向，S1成立。
 google--gemma-3-12b-it|HSK7|20260420-021554,gemma-3-12b-it,HSK7,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),下次我们可以深入讨论一下京剧的特点和魅力，你觉得怎么样？,开放式提议+征询意见，把是否有下次以及方向交给学生；下一轮学生欣然同意，S1成立，但对话已在下一个assistant话轮(t=11)提前结束，未能真正展开。
 meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153632,Llama-3.1-8B-Instruct,HSK1,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),最后，我想问你，你是否想和我继续讨论音乐或其他共同的兴趣题目？,真实的or-choice放弃话题控制：给学生'继续讨论音乐'或'其他共同兴趣话题'的选择，学生在下一轮(16)选择继续音乐/摄影话题并延伸出上海拍摄计划，老师在第17轮确实跟随了学生选择的方向，S1成立
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154427,Llama-3.1-8B-Instruct,HSK1,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),想出去玩吗？有没有什么地方想要去呢？,开放问句，把去哪里玩的决定权交给学生；学生下一轮提出公园，老师跟随。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154427,Llama-3.1-8B-Instruct,HSK1,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你喜欢什么样的音乐呢？古典还是现代？,开放问句+or-choice（古典/现代），决定后续音乐话题方向；学生下一轮回答喜欢现代流行，老师跟随。
 meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154529,Llama-3.1-8B-Instruct,HSK1,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),我们可以练习简单的口语或写字。,真实的or-choice：给学生'口语'或'写字'的选择权，学生在下一轮明确选择'口语'并指定问路/点菜/自我介绍等子话题，老师第5轮确实跟随，S1成立
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154901,Llama-3.1-8B-Instruct,HSK1,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),你还有其他地方想要问的吗？或者你已经会一点儿汉字了想要练习一下写字吗？,开放问句+备选（继续问词汇/练习写字），把接下来做什么交给学生；学生下一轮选择练习写字。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154925,Llama-3.1-8B-Instruct,HSK1,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),你想去哪里玩儿呢？,开放问句，把去哪里玩的决定权交给学生；学生下一轮提出公园划船，老师跟随。
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121344,Llama-3.1-8B-Instruct,HSK4,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),另外，你喜欢喝绿茶还是红茶？,or-choice问茶偏好，下一轮学生答绿茶+家乡习惯，t=9老师顺着绿茶话题走，确认放弃控制；同时是贴近学生的简单偏好问题；“另外”是话题标记词
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121344,Llama-3.1-8B-Instruct,HSK4,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),而且你提到了泛舟的事儿，还真是个好主意！湖边确实有几个小贡寮，可以租船去玩儿。,学生在上一轮(t=10)主动提出划船话题，老师顺着走，隐式放弃话题控制
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121431,Llama-3.1-8B-Instruct,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),那就一定要去尝一试呗!糕点店应该是新开业了一段时间了，对吧?,学生在t=4主动提到新开的糕点店，老师顺着这个话题走
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121431,Llama-3.1-8B-Instruct,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),哪种味道你更想尝试呢？,or-choice式偏好问题，t=6学生选杏仁口味，t=7老师跟进杏仁蛋糕，确认放弃控制；同时是贴近学生的简单偏好问题
 meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121626,Llama-3.1-8B-Instruct,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),有没有什么问题要问我吗？或者我们一起练习一下中文聊天，可以吗？,真实的or-choice：给学生'提问'或'练习聊天'的选择，学生在下一轮提出关于'你好/您好'的具体问题，老师第7轮确实针对该问题作答，S1成立
 meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121626,Llama-3.1-8B-Instruct,HSK4,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),你可以接着问我一些问题，让我们继续讨论这个话题。或是改变话题，我们可以谈论一些其他的话题，例如工作、旅行、食物等。,真实的or-choice：给学生'继续当前话题'或'换到工作/旅行/食物等新话题'的选择权，形式上满足S1；但对话在此后即结束（第18轮为最后一条学生消息），无法看到老师是否真的跟随学生的选择
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121802,Llama-3.1-8B-Instruct,HSK4,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),有没有推荐的餐馆呢？,把选餐馆的决定权交给学生，t=4学生推荐福记面馆，t=5老师跟进该餐馆，确认放弃控制
 meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122146,Llama-3.1-8B-Instruct,HSK4,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),比如学习、工作还是其他方面呢？,真实的or-choice：把'目标属于学习/工作/其他'的具体方向决定权交给学生，学生下一轮选择了'学习中文'这一方向，老师第13轮确实跟随，S1成立
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122716,Llama-3.1-8B-Instruct,HSK4,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),什么地方打算去玩儿？有没有想法？,把去哪儿玩的决定权交给学生，t=4学生说去公园，t=5老师跟进该公园，确认放弃控制
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122716,Llama-3.1-8B-Instruct,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),有什么打算在公园里做的事情呢？是看看鱼、抓抓蚊子还是读书？,三选一or-choice，t=6学生提到想借书看小说（呼应“读书”），t=7老师跟进图书馆/读书话题，确认放弃控制
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122716,Llama-3.1-8B-Instruct,HSK4,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),去图书馆借书后，你打算在哪里吃午饭呢？是到附近的餐厅，还是自己拿点东西在公园吃呢？,二选一or-choice，t=10学生选餐厅（清真餐馆），t=11老师跟进该餐厅，确认放弃控制
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122716,Llama-3.1-8B-Instruct,HSK4,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),既然这样，确实很划算可以趁着路上逛一逛超市。,学生在t=14主动提到顺路去超市，老师顺着这个话题走
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122716,Llama-3.1-8B-Instruct,HSK4,claude_candidate,17,S1,放弃话题控制 (relinquish topic control),回家后你会去哪里放松一下呢？会看书，听音乐还是玩一下游戏呢？,三选一or-choice，把回家后做什么的决定权交给学生
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122948,Llama-3.1-8B-Instruct,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你想要尝试我再煮一锅，还是我带你去附近的餐厅找一下比较好的店家呢？,二选一or-choice，t=6学生选“再煮一锅”，t=7老师跟进在家煮粥，确认放弃控制
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123630,Llama-3.1-8B-Instruct,HSK4,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),另外，关于中英文图书，你想要什么类型的书呢？你喜欢读中文还是英文？,or-choice问读书类型/语言偏好，t=4学生详细回答，t=5老师跟进该话题；同时是贴近学生的简单偏好问题；“另外，关于……”是话题标记词
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123630,Llama-3.1-8B-Instruct,HSK4,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),你想了解哪个具体方面比较感兴趣呢？古代史、现代史，还是哲学中的某个问题呢？,三选一or-choice，t=6学生选古代史+儒家哲学，t=7老师跟进孔子、荀子、西周春秋，确认放弃控制
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123753,Llama-3.1-8B-Instruct,HSK4,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),你尝试过使用辣椒油或者豆瓣酱来增加一下辣味吗？,or-choice式经验问题，t=8学生回答用过两种，t=9老师跟进，确认放弃控制；同时是贴近学生的简单问题
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),你刚提到“现代人”，让我突然想到，我们今天的社会正面临着许多挑战，如压力、焦虑等。有些人可能会用逃避或麻木来应对，而另一些人则会选择抗争和反思。是什么促使你更倾向于 latter 方式？,老师顺着学生刚提出的“现代人”话题往下走，t=8学生详细回应，t=9老师继续跟进，确认放弃控制
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),你提到“个人自律”的概念，非常好，这一点对于成年人尤其重要。我们需要不断地检视自己的想法、行为和情绪，并不断地改进自己。这是一个长期的过程，需要我们对自己保持开放、敏锐和诚实。通过学习和成长，我们才能在自我反省和修养的道路上一步步前进。,老师顺着学生刚提出的“个人自律”概念往下走
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,15,S1,放弃话题控制 (relinquish topic control),(这里我们可以结束本次对话，或者继续深入讨论主题。根据情况，您可以选择是否进行下一轮交谈。),显式or-choice，把是否继续/结束对话的决定权交给学生，t=16学生选择收尾，t=17老师顺势结束，确认放弃控制
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131001,Llama-3.1-8B-Instruct,HSK7,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),还是说我们去新公园？,or-choice框架给学生新公园/热闹公园的选择权，下一轮学生选择'新公园'并在此后多轮延续该话题，确认为真实的话题控制权转移而非伪放弃
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131031,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),想去哪家吃比较好呢？,老师把选餐厅这一子话题的决定权交给学生，学生随后提出「大宝馄饨」，符合放弃话题控制。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131031,Llama-3.1-8B-Instruct,HSK7,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),另外，还有没有其他比那个更舒适点儿的地方呢？,「另外」标记话题边界；同时再次把选择权交给学生，学生随后提出「温州园」并被老师采纳。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132347,Llama-3.1-8B-Instruct,HSK7,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),我们可能需要预约座位，还是直接去看看？,「还是」构成的或择问句，把决定权交给学生，学生随后选择「不用预约」。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132347,Llama-3.1-8B-Instruct,HSK7,claude_candidate,5,S1,放弃话题控制 (relinquish topic control),另外，你知道电影院里有什么推荐电影吗？最近哪些片子比较火热呢？,「另外」标记新子话题；同时把选哪部电影的决定权交给学生，学生随后提出科幻电影建议并被老师采纳（见下一老师话轮）。
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132732,Llama-3.1-8B-Instruct,HSK7,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),早点儿或者傍晚？,or-choice提问将出行时间的决定权交给学生，下一轮学生选择'早点儿'并被采纳，判定为真实的S1
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-144440,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,7,S1,放弃话题控制 (relinquish topic control),今天天气怎么样？,顺着（角色错位后的）学生在上一轮提出的天气话题往下走，放弃了继续追问姓名的原计划话题
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-122718,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),我们今天可以讨论什么话题？比如说，你最近在做些什么吗？还是有哪些你想了解的问题？,开放式提问并用「还是」构成或择框架，把话题决定权交给学生；学生随后提出课程与中美教育比较的话题，老师在下一轮完全跟随。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-122718,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),那么，你还在学什么呢？或者有什么其他问题想了解？我们可以一起讨论一下。,「那么」标记边界，「或者」构成或择框架，把话题决定权交给学生；老师并未在同一话轮内自问自答，学生在下一轮做出回应。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-132059,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),"Our topic today is Chinese calligraphy, Chinese tea ceremony, and Peking Opera.",学生在上一轮自行把话题带到书法/茶艺/京剧，老师这一轮顺着学生提出的新话题继续下去，放弃了自己原定的大湾区话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-133314,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,9,S1,放弃话题控制 (relinquish topic control),"1. 如果你想体验中国古老的文化和历史，可以考虑去西藏，尤其是拉萨，它是一个具有特别魅力的地方。你可以参观古老的寺庙和城堡，并体验藏族的民俗和文化。
+2. 如果你想体验中国现代化的生活方式，可以考虑去上海，它是一个繁荣发展的城市，拥有数百家各种各样的餐馆和娱乐场所。你可以参观世界博览会和商务中心，同时也可以走走上海的老街区，体验中国历史文化的余味。",老师给出西藏/上海两个候选目的地供学生选择（or-choice），下一轮学生明确选择了西藏，此后对话确实跟随学生的选择深入展开，S1成立。
 mistralai--Mistral-7B-Instruct-v0.3|HSK7|20260418-084604,Mistral-7B-Instruct-v0.3,HSK7,claude_candidate,1,S1,放弃话题控制 (relinquish topic control),有什么想要讨论的话题吗？或者我可以给你提出一个问题，让你回答呢？,"or-choice式开放提问，但后续学生轮(t2)只是照搬式回应并未真正选择话题，t3老师径自选了自己列过的""运动""，跟随证据弱，存疑，未强行判DIS。"
 mistralai--Mistral-7B-Instruct-v0.3|HSK7|20260418-084604,Mistral-7B-Instruct-v0.3,HSK7,claude_candidate,11,S1,放弃话题控制 (relinquish topic control),您对于文化和艺术有什么兴趣吗？,"以""感兴趣吗""形式让学生决定是否接受该话题，t12学生真实回应并展开文化艺术话题，t13老师跟随，S1成立且有真实跟随证据。"
 mistralai--Mistral-7B-Instruct-v0.3|HSK7|20260418-090307,Mistral-7B-Instruct-v0.3,HSK7,claude_candidate,3,S1,放弃话题控制 (relinquish topic control),有什么问题需要我回答吗？,邀请学生自主提出问题/话题
@@ -142,9 +249,26 @@ Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-122118,Qwen2.5-7B-Instruct,HSK4,claude_c
 Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-122118,Qwen2.5-7B-Instruct,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),你喜欢哪些类型的书或电影呢？,继续追问学生自己的兴趣类型，贴近学生
 Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-123044,Qwen2.5-7B-Instruct,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),我最近去了一个公园，看到了很多漂亮的花儿。春天真是个美好的季节！,老师选择简单、具体、与当下情境（春天/公园）相关的个人话题，符合S2特征。
 Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-124239,Qwen2.5-7B-Instruct,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),今天我在公园散步的时候看到了一群小朋友在放风筝，他们玩得很开心。,老师分享自己简单、具体的日常经历（公园散步见闻），符合S2特征。
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135349,Qwen2.5-7B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),我们来聊聊你的日常吧。你喜欢做什么事情来放松自己？,老师主动选定学生个人日常/放松方式这一贴近学生的简单话题（开场轮，未见 or-choice/放弃控制）
+google--gemma-3-12b-it|HSK1|20260304-184910,gemma-3-12b-it,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你喜欢买什么东西？,"简单、贴近学生个人喜好的问题，符合manual所举""你在哪里学习中文""一类S2范例"
+google--gemma-3-12b-it|HSK1|20260304-185217,gemma-3-12b-it,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你呢？你喜欢什么食物？,简单、贴近学生个人喜好的问题
+google--gemma-3-12b-it|HSK1|20260304-185217,gemma-3-12b-it,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),你喜欢吃什么火锅的食材？肉？蔬菜？面条？,延续同一贴近学生的简单个人喜好话题（火锅食材），后面的具体词汇仅为词汇提示而非话题层面的or-choice
+google--gemma-3-12b-it|HSK1|20260304-185217,gemma-3-12b-it,HSK1,claude_candidate,7,S2,选择显著话题 (select salient topics),你吃过鱼丸和豆腐吗？,简单、贴近学生个人经历的问题
+google--gemma-3-12b-it|HSK1|20260304-185217,gemma-3-12b-it,HSK1,claude_candidate,9,S2,选择显著话题 (select salient topics),你呢？你觉得怎么样？,简单的个人意见反问，贴近学生
+google--gemma-3-12b-it|HSK1|20260304-185217,gemma-3-12b-it,HSK1,claude_candidate,11,S2,选择显著话题 (select salient topics),你最喜欢在火锅里放什么调料？,简单、贴近学生个人喜好的问题
+google--gemma-3-12b-it|HSK1|20260304-185217,gemma-3-12b-it,HSK1,claude_candidate,13,S2,选择显著话题 (select salient topics),你试过用醋吗？,简单、贴近学生个人经历的问题
+google--gemma-3-12b-it|HSK1|20260304-190827,gemma-3-12b-it,HSK1,claude_candidate,1,S2,选择显著话题 (select salient topics),你叫什么名字？,询问学生姓名，简单具体、以学生为中心的话题
+google--gemma-3-12b-it|HSK1|20260304-190827,gemma-3-12b-it,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你呢？ 你是哪国人？,询问学生国籍，简单具体的个人话题
+google--gemma-3-12b-it|HSK1|20260304-190827,gemma-3-12b-it,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),你喜欢吃什么食物？,询问学生饮食喜好，简单具体、学生中心的话题
+google--gemma-3-12b-it|HSK1|20260304-190827,gemma-3-12b-it,HSK1,claude_candidate,7,S2,选择显著话题 (select salient topics),你现在怎么样？你身体好吗？,询问学生当下身体状况，简单具体的个人话题
+google--gemma-3-12b-it|HSK1|20260304-190827,gemma-3-12b-it,HSK1,claude_candidate,13,S2,选择显著话题 (select salient topics),你每天做什么？,询问学生日常生活，简单具体、学生中心的话题
 google--gemma-3-12b-it|HSK1|20260304-190957,gemma-3-12b-it,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你叫什么名字？,询问学生自身信息(姓名)，简单具体、以学生为中心的话题
 google--gemma-3-12b-it|HSK1|20260304-190957,gemma-3-12b-it,HSK1,claude_candidate,7,S2,选择显著话题 (select salient topics),你学习汉语多久了？,询问学生自身学习经历，简单具体、以学生为中心
 google--gemma-3-12b-it|HSK1|20260304-190957,gemma-3-12b-it,HSK1,claude_candidate,9,S2,选择显著话题 (select salient topics),那你喜欢什么？,询问学生个人喜好，简单具体、以学生为中心
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),你喜欢什么颜色？,询问学生颜色喜好，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,9,S2,选择显著话题 (select salient topics),你最喜欢吃什么？,询问学生饮食喜好，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,11,S2,选择显著话题 (select salient topics),如果你可以只吃一种水果，你会选择哪种？,询问学生个人偏好，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,13,S2,选择显著话题 (select salient topics),你有一个兄弟姐妹吗？,询问学生家庭情况，简单具体的学生中心话题
 google--gemma-3-12b-it|HSK1|20260304-192729,gemma-3-12b-it,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你是男是女？,询问学生自身信息(性别)，简单具体
 google--gemma-3-12b-it|HSK1|20260304-192729,gemma-3-12b-it,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),你几岁了？,询问学生自身信息(年龄)，简单具体，与codebook示例一致
 google--gemma-3-12b-it|HSK1|20260304-192729,gemma-3-12b-it,HSK1,claude_candidate,7,S2,选择显著话题 (select salient topics),你喜欢吃什么食物？,询问学生个人喜好(食物)，简单具体
@@ -156,21 +280,108 @@ google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate
 google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),你住在哪里？,询问学生自身信息(居住地)，简单具体
 google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate,7,S2,选择显著话题 (select salient topics),你在美国做什么？,询问学生自身情况(在美国做什么)，简单具体、以学生为中心
 google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate,9,S2,选择显著话题 (select salient topics),请问，你几岁？,询问学生自身信息(年龄)，与codebook示例一致
+google--gemma-3-12b-it|HSK1|20260304-193810,gemma-3-12b-it,HSK1,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气很好，是吧？你喜欢今天的天气吗？,关于此时此地天气的简单话题，典型S2范例
+google--gemma-3-12b-it|HSK1|20260304-193810,gemma-3-12b-it,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),现在，告诉我， 你今天做了什么？,询问学生今天做了什么，简单具体、此时此地的学生中心话题
+google--gemma-3-12b-it|HSK1|20260304-193810,gemma-3-12b-it,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),你喜欢看什么视频？,询问学生个人喜好，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-101818,gemma-3-12b-it,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),你最近怎么样？,询问学生近况，简单具体的个人话题
+google--gemma-3-12b-it|HSK4|20260418-101818,gemma-3-12b-it,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),你学的是什么专业呢？ 现在正在学哪些课程？,询问学生专业与课程，简单具体的学生中心话题
 google--gemma-3-12b-it|HSK4|20260418-124420,gemma-3-12b-it,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),你呢？ 你最喜欢的中国食物是什么？为什么？,延续互惠问答框架下询问学生个人喜好(食物)，简单具体、以学生为中心
 google--gemma-3-12b-it|HSK4|20260418-124420,gemma-3-12b-it,HSK4,claude_candidate,5,S2,选择显著话题 (select salient topics),你呢？ 你有什么爱好？,询问学生个人爱好，简单具体、以学生为中心
 google--gemma-3-12b-it|HSK4|20260418-124420,gemma-3-12b-it,HSK4,claude_candidate,15,S2,选择显著话题 (select salient topics),你最喜欢哪一道菜？,询问学生个人喜好(最喜欢的菜)，简单具体、以学生为中心
 google--gemma-3-12b-it|HSK4|20260418-124420,gemma-3-12b-it,HSK4,claude_candidate,17,S2,选择显著话题 (select salient topics),你呢？ 你会做什么中国菜吗？,询问学生个人能力/喜好(是否会做中国菜)，简单具体
 google--gemma-3-12b-it|HSK4|20260418-152121,gemma-3-12b-it,HSK4,claude_candidate,13,S2,选择显著话题 (select salient topics),那你呢？ 在学习汉语的过程中， 你目前最大的挑战是什么？,'那'为S4式话语标记词，随后的问题询问学生自身学习困难，简单具体、以学生为中心
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),你周末有什么计划吗？ 是打算在家休息，还是出去玩儿？,询问学生周末计划，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,7,S2,选择显著话题 (select salient topics),你喜欢看哪种类型的书？,询问学生阅读喜好，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,9,S2,选择显著话题 (select salient topics),你有没有看过侦探小说？ 有没有特别喜欢的作者？,询问学生个人阅读经历，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,15,S2,选择显著话题 (select salient topics),现在，咱们换一种话题，你喜欢什么运动？,同一句中询问学生运动喜好，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,17,S2,选择显著话题 (select salient topics),你喜欢什么类型的音乐？,询问学生音乐喜好，简单具体的学生中心话题
 google--gemma-3-12b-it|HSK4|20260418-153559,gemma-3-12b-it,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),你最近怎么样？,贴近学生本人当下状态的简单话题。
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),你最近怎么样？,询问学生近况，简单具体的个人话题
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),你学习中文多久了？为什么选择学习中文？,询问学生学习经历与动机，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,5,S2,选择显著话题 (select salient topics),现在，我想考考你。请你用中文描述一下你最喜欢的一道中国菜。,同一句中要求描述学生最喜欢的中国菜，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,7,S2,选择显著话题 (select salient topics),你平时喜欢做什么休闲活动？,询问学生休闲活动，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,11,S2,选择显著话题 (select salient topics),What are you planning to focus on in your Chinese studies this week?,询问学生本周学习计划，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,13,S2,选择显著话题 (select salient topics),"Tell me, what kind of content are you thinking of using for your listening practice? News, dramas, interviews...?",询问学生听力材料的具体选择，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,17,S2,选择显著话题 (select salient topics),请你用中文简单描述一下你昨天做了什么。,询问学生昨天的活动，简单具体、此时此地的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-161200,gemma-3-12b-it,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),你学了多久了？ 做了哪些菜啊？最喜欢做什么菜？,询问学生学做菜的经历，简单具体的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-161200,gemma-3-12b-it,HSK4,claude_candidate,7,S2,选择显著话题 (select salient topics),你能告诉我你在哪个城市呢？,询问学生所在城市，简单具体、此时此地的学生中心话题
+google--gemma-3-12b-it|HSK4|20260418-161200,gemma-3-12b-it,HSK4,claude_candidate,11,S2,选择显著话题 (select salient topics),你有没有用过豆瓣酱做过菜？ 用它做什么菜最好吃？,询问学生使用豆瓣酱做菜的经历，简单具体的学生中心话题
 meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153125,Llama-3.1-8B-Instruct,HSK1,claude_candidate,1,S2,选择显著话题 (select salient topics),你好！今天天气很热吧？,开场轮：学生只说你好，老师主动选择天气这一贴近当下情境的简单话题
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153209,Llama-3.1-8B-Instruct,HSK1,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样？很热吧？,以天气这一贴近学生当下环境的简单话题开场。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153209,Llama-3.1-8B-Instruct,HSK1,claude_candidate,11,S2,选择显著话题 (select salient topics),你想买什么颜色的裙子或衬衫？,围绕学生当下购物场景中的具体、简单偏好提问。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153900,Llama-3.1-8B-Instruct,HSK1,claude_candidate,1,S2,选择显著话题 (select salient topics),是什么时候来中国的？,关于学生自身情况的简单具体问题。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153900,Llama-3.1-8B-Instruct,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你在哪里学习中文？是在学校还是在培训机构？,与手册示例几乎一致的S2范例：询问学生学习中文的地点。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153900,Llama-3.1-8B-Instruct,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),是什么时候上课的时间？早上还是下午呢？,关于学生课程安排的简单具体问题。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153900,Llama-3.1-8B-Instruct,HSK1,claude_candidate,7,S2,选择显著话题 (select salient topics),有没有特别喜欢的汉字或汉语短句子？,关于学生个人喜好的简单具体问题。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154427,Llama-3.1-8B-Instruct,HSK1,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样？,天气话题，贴近学生当下环境。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154901,Llama-3.1-8B-Instruct,HSK1,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样?,天气话题，贴近学生当下环境。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154901,Llama-3.1-8B-Instruct,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),明天要考试，你准备得怎样？,关于学生备考情况的简单具体问题。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154901,Llama-3.1-8B-Instruct,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),是什么样的词汇你觉得特别困难?,关于学生具体学习困难的简单问题。
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154925,Llama-3.1-8B-Instruct,HSK1,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样？,天气话题，贴近学生当下环境。
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121344,Llama-3.1-8B-Instruct,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样？,开场轮次天气话题，简单、当下、贴近学生
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121344,Llama-3.1-8B-Instruct,HSK4,claude_candidate,7,S2,选择显著话题 (select salient topics),另外，你喜欢喝绿茶还是红茶？,or-choice问茶偏好，下一轮学生答绿茶+家乡习惯，t=9老师顺着绿茶话题走，确认放弃控制；同时是贴近学生的简单偏好问题；“另外”是话题标记词
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121431,Llama-3.1-8B-Instruct,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样?,开场轮次天气话题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121431,Llama-3.1-8B-Instruct,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),你喜欢吃什么零食呢？,简单、贴近学生的偏好问题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121431,Llama-3.1-8B-Instruct,HSK4,claude_candidate,5,S2,选择显著话题 (select salient topics),哪种味道你更想尝试呢？,or-choice式偏好问题，t=6学生选杏仁口味，t=7老师跟进杏仁蛋糕，确认放弃控制；同时是贴近学生的简单偏好问题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121802,Llama-3.1-8B-Instruct,HSK4,claude_candidate,7,S2,选择显著话题 (select salient topics),如果你听到这样的评价，你会觉得有多开心呢？,贴近学生个人感受的简单问题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122716,Llama-3.1-8B-Instruct,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样?,开场轮次天气话题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122716,Llama-3.1-8B-Instruct,HSK4,claude_candidate,11,S2,选择显著话题 (select salient topics),你喜欢辣的吗？,贴近学生个人口味的简单问题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122948,Llama-3.1-8B-Instruct,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样？,开场轮次天气话题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122948,Llama-3.1-8B-Instruct,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),有没有吃点好东西缓解一下炎热呢？,贴近学生当下情况的简单问题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123630,Llama-3.1-8B-Instruct,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),另外，关于中英文图书，你想要什么类型的书呢？你喜欢读中文还是英文？,or-choice问读书类型/语言偏好，t=4学生详细回答，t=5老师跟进该话题；同时是贴近学生的简单偏好问题；“另外，关于……”是话题标记词
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123753,Llama-3.1-8B-Instruct,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),您今天过得好吗？有做什么事儿？,开场轮次，贴近学生日常的简单问题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123753,Llama-3.1-8B-Instruct,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),哪一道菜你做的呢？,贴近学生的简单问题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123753,Llama-3.1-8B-Instruct,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),中文新闻要看的是什么啊？,贴近学生的简单问题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123753,Llama-3.1-8B-Instruct,HSK4,claude_candidate,7,S2,选择显著话题 (select salient topics),你尝试过使用辣椒油或者豆瓣酱来增加一下辣味吗？,or-choice式经验问题，t=8学生回答用过两种，t=9老师跟进，确认放弃控制；同时是贴近学生的简单问题
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-125657,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),最近在忙碌什么呢？,首轮即以学生当下状态为话题，S2典型例子
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130559,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气很热啊，听说最近这几天要下雨了,首轮即以天气这一即时、贴近学生的话题开场，S2典型例子
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130748,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),最近过得好吗？,首轮以学生近况为话题，S2典型例子
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),最近看了什么有趣的电影吗？,开场轮次，贴近学生的简单问题
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,3,S2,选择显著话题 (select salient topics),你是否对这部小说有什么特别的感受或者留下印象？,贴近学生个人感受的简单问题
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131001,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气不错吧？,首轮以天气这一即时话题开场，S2典型例子
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131153,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样？最近我发现上海的夏天越来越热了。,开场选择天气这一简单、贴近当下情境的话题。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132256,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),今天是周末吗？,开场询问当天是否周末，简单、贴近此时此地。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132256,Llama-3.1-8B-Instruct,HSK7,claude_candidate,3,S2,选择显著话题 (select salient topics),你有计划周六做什么呢？,询问学生自己的周末计划，以学生为中心。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132256,Llama-3.1-8B-Instruct,HSK7,claude_candidate,11,S2,选择显著话题 (select salient topics),你是什么时候毕业的?,突然从论文资料话题转向学生个人毕业时间这一贴近学生的简单话题，也体现了频繁更换话题、浅尝辄止。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132347,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),这天气真热啊，最近下雨了吗？,开场用天气这一简单话题，与编码手册示例几乎一致。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132347,Llama-3.1-8B-Instruct,HSK7,claude_candidate,3,S2,选择显著话题 (select salient topics),听说最近你们那边有个新电影院开张了，对吧？,从天气转向新话题（学生所在地的新电影院），既贴近学生所在地，又是明显的话题边界。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132347,Llama-3.1-8B-Instruct,HSK7,claude_candidate,11,S2,选择显著话题 (select salient topics),等一下，我也想问一下，你平时去看电影的时候喜欢坐在哪里座位？你有固定的座位位置吗？,用「等一下，我也想问一下」标记新话题边界，并选择贴近学生个人习惯（座位偏好）的话题。
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132732,Llama-3.1-8B-Instruct,HSK7,claude_candidate,1,S2,选择显著话题 (select salient topics),今天天气怎么样？还能下雨吗？,首轮以天气话题开场，S2典型例子
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132732,Llama-3.1-8B-Instruct,HSK7,claude_candidate,3,S2,选择显著话题 (select salient topics),你去哪儿玩呢？,以学生当下计划为话题，贴近学生本人
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-150300,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,11,S2,选择显著话题 (select salient topics),现在，请问您最喜欢练习中文的环境是哪个？,话题贴近学生自身（学生喜欢的中文学习环境），以学生为中心
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-151330,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),请问你多大岁数？请告诉我你居住的地方。,话题聚焦学生自身（年龄、居住地），属贴近学生的简单话题
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你最喜欢哪些种类的火锅呢？,追问学生个人口味偏好，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你平时是怎么来回上班的呢？,追问学生日常通勤情况，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你有没有其他你喜欢的娱乐活动？,追问学生娱乐爱好，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),你喜欢哪些其他的火锅类型吗？,再次追问学生火锅口味偏好。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),我们平时如何上下班呢？,再次追问通勤方式，贴近学生日常。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,5,S2,选择显著话题 (select salient topics),你最喜欢的电影或电视剧是什么？,追问学生喜欢的影视作品。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,7,S2,选择显著话题 (select salient topics),你最喜欢的电影或电视剧是什么？请随时告诉我。,再次出现同一贴近学生的话题实例。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,11,S2,选择显著话题 (select salient topics),你有没有其他的喜欢吃的食物？,追问学生喜欢的食物，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,11,S2,选择显著话题 (select salient topics),还有，你平时如何回家上班？你通常使用什么交通工具？,追问学生通勤方式，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,11,S2,选择显著话题 (select salient topics),最后，你最喜欢什么娱乐活动呢？,追问学生娱乐活动，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,15,S2,选择显著话题 (select salient topics),你有没有喜欢听的歌曲或音乐风格？你最近听过哪些有趣的音乐？,询问学生音乐喜好，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,15,S2,选择显著话题 (select salient topics),你平时用什么手机或电脑播放音乐？,询问学生日常使用习惯，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,17,S2,选择显著话题 (select salient topics),你最喜欢的歌曲和音乐风格是什么呢？请随时告诉我。,再次出现的同类贴近学生话题实例。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,1,S2,选择显著话题 (select salient topics),接下来，我要问你一件关于日常生活的问题：你喜欢吃什么食物？,「接下来」标记话题边界，问题内容（喜欢的食物）贴近学生。（开场轮次，仅作为真实出现的S2/S4实例记录，不涉及S1缺席判断）
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,3,S2,选择显著话题 (select salient topics),你上周去了哪些地方？你在家里做了些什么？你最近看了什么电影或书呢？,把一个大问题拆成一串关于学生日常生活的小问题，兼具S2（贴近学生）与S4（拆分提问）。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,11,S2,选择显著话题 (select salient topics),我可以先问你：你在哪里？（你在哪里？），你喜欢做什么吗？（你喜欢做什么吗？），你吃过什么好东西吗？（你吃过什么好东西吗？）这样的问题。,一次性提出多个关于学生自身情况的问题（因一次性抛出多问，不计S1，但内容贴近学生，计S2）。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,15,S2,选择显著话题 (select salient topics),我可以问你一个问题，例如“你最近看过了哪些电影”（你最近看过哪些电影吗？）或者“你最近看过了哪些图书”（你最近看过哪些图书吗？）。,提名新话题（近期看过的电影/图书），内容贴近学生；同样老师随后自问自答，未真正等待学生选择，故不计S1。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,17,S2,选择显著话题 (select salient topics),你有什么爱好吗？（你有什么爱好吗？）,询问学生兴趣爱好，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),请问您知道如何使用中文来描述您的住房吗？比如说说您的房子有多大、有几居室、是否有花园等。,开场轮次，老师选择了以学生自己住房/生活环境为中心的简单具体话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,17,S2,选择显著话题 (select salient topics),那么，您曾在哪个城市住过吗？,选择了学生自己故乡这一贴近学生本人的简单具体话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-132059,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),您最近在学校上了什么课？,开场轮次，选择学生自己最近学校生活这一简单具体的话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-133314,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),请问您最近在哪里生活？,开场轮次，选择学生本人当下居住地这一简单具体话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-133314,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),您有机会去过吗？,询问学生本人是否去过某地，贴近学生个人经历。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-133314,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),那么，您有计划参观哪个地方吗？,询问学生本人的旅行计划，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134005,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),我想问问，最近你在做什么？,开场轮次，询问学生本人近况，简单具体。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134005,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),或许可以和我共享一些关于学校生活的事情吗？比如说，有哪些课程你感觉学得很有用呢？,询问学生本人的学校生活/课程，贴近学生。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),让我们从简单的生活话开始，例如问候语、时间、天气等。,开场轮次，选择天气等简单、具体、此时此地的话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),哈喽！今天天气真不错啊，很阳光充足吧！,延续天气这一简单具体的话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S2,选择显著话题 (select salient topics),您有没有宠物？,询问学生本人是否有宠物，简单具体。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,11,S2,选择显著话题 (select salient topics),您的职业是什么？,询问学生本人职业，简单具体。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,13,S2,选择显著话题 (select salient topics),您的学校有多大？,询问学生本人学校情况，简单具体。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,15,S2,选择显著话题 (select salient topics),您的家人住在哪里？,询问学生本人家人住处，简单具体。
 mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134455,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S2,选择显著话题 (select salient topics),最近在哪里旅行过？,选择与学生本人经历相关的简单话题（旅行）
 mistralai--Mistral-7B-Instruct-v0.3|HSK7|20260418-084604,Mistral-7B-Instruct-v0.3,HSK7,claude_candidate,3,S2,选择显著话题 (select salient topics),你最近有没有参加任何运动活动吗？,选择贴近学生自身经历的简单话题（运动）。
 mistralai--Mistral-7B-Instruct-v0.3|HSK7|20260418-084604,Mistral-7B-Instruct-v0.3,HSK7,claude_candidate,5,S2,选择显著话题 (select salient topics),我们可以先从一个简单的问题开始，比如说，你最近有什么有趣的事件发生了吗？或者你有什么特别喜欢的运动项目，为什么？,以学生自身经历为中心的简单具体问题。
@@ -196,12 +407,16 @@ Qwen--Qwen2.5-7B-Instruct|HSK1|20260303-140958,Qwen2.5-7B-Instruct,HSK1,claude_c
 Qwen--Qwen2.5-7B-Instruct|HSK1|20260303-142212,Qwen2.5-7B-Instruct,HSK1,claude_candidate,13,S3,话题简短处理 (treat topics briefly),我还挺喜欢梁山伯与祝英台的故事,每轮都引入一个新的具体故事（嫦娥奔月→梁祝→白蛇传），话题面广但每个都未深入，浅尝辄止
 Qwen--Qwen2.5-7B-Instruct|HSK1|20260303-142212,Qwen2.5-7B-Instruct,HSK1,claude_candidate,15,S3,话题简短处理 (treat topics briefly),我最喜欢《白蛇传》这个故事,连续第三次引入新故事，同样呈现浅尝辄止的模式
 google--gemma-3-12b-it|HSK1|20260304-190957,gemma-3-12b-it,HSK1,claude_candidate,13,S3,话题简短处理 (treat topics briefly),你想吃什么？,话题浅尝辄止：猫话题仅维持了两轮(t=10-12)就被关闭，转向新话题(食物)，符合话题面广而不深入的模式
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,5,S3,话题简短处理 (treat topics briefly),现在轮到我了！,紧随其后的颜色话题仅一轮即再转换，符合话题浅尝辄止的整体模式
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,9,S3,话题简短处理 (treat topics briefly),现在，我们换个话题吧。,食物话题随后仅两轮就转向水果/兄弟姐妹等新话题，符合浅尝辄止模式
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,13,S3,话题简短处理 (treat topics briefly),现在，我想问你一个简单的问题。,兄弟姐妹话题仅一轮后又转入数数游戏，符合浅尝辄止模式
 google--gemma-3-12b-it|HSK1|20260304-192729,gemma-3-12b-it,HSK1,claude_candidate,3,S3,话题简短处理 (treat topics briefly),现在，请告诉我： 你是男是女？,姓名话题仅维持一轮(t=1-2)即被关闭，转向性别话题，话题浅尝辄止的一例
 google--gemma-3-12b-it|HSK1|20260304-192729,gemma-3-12b-it,HSK1,claude_candidate,5,S3,话题简短处理 (treat topics briefly),现在，你几岁了？,性别话题仅维持一轮(t=3-4)即被关闭，转向年龄话题
 google--gemma-3-12b-it|HSK1|20260304-192729,gemma-3-12b-it,HSK1,claude_candidate,13,S3,话题简短处理 (treat topics briefly),现在我们来玩一个简单的游戏。,爱好话题仅维持一轮(t=11-12)即被关闭，转向游戏活动
 google--gemma-3-12b-it|HSK1|20260304-192949,gemma-3-12b-it,HSK1,claude_candidate,5,S3,话题简短处理 (treat topics briefly),你喜欢什么颜色？,爱好话题仅维持两轮(t=3-4)即被关闭，转向新话题(颜色)
 google--gemma-3-12b-it|HSK1|20260304-192949,gemma-3-12b-it,HSK1,claude_candidate,7,S3,话题简短处理 (treat topics briefly),现在我们来玩一个游戏好吗？,颜色话题仅维持两轮(t=5-6)即被关闭，转向游戏活动
 google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate,11,S3,话题简短处理 (treat topics briefly),现在我们来玩一个小游戏！,数字/年龄话题仅维持两轮(t=9-10)即被关闭，转向游戏活动
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132256,Llama-3.1-8B-Instruct,HSK7,claude_candidate,11,S3,话题简短处理 (treat topics briefly),你是什么时候毕业的?,突然从论文资料话题转向学生个人毕业时间这一贴近学生的简单话题，也体现了频繁更换话题、浅尝辄止。
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-144320,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,9,S3,话题简短处理 (treat topics briefly),"你喜欢什么颜色最多？（""你喜欢最多的颜色是哪个？""）
 泡泡茶是怎么样的味道？（""泡泡茶有什么口感吗？""）
 还有，你有什么其他喜欢的食品吗？（""你还有其他喜欢的食物吗？""）",一轮内连续抛出三个互不相关的小话题（颜色/口味/其他食品），每个均浅尝辄止、不深入
@@ -223,6 +438,19 @@ mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-145943,Mistral-7B-Instruct-v0.
 3. 你平时使用哪种运输工具？",一次性抛出三个互不相关的话题（食品、爱好、交通），随后每个话题都只被浅尝辄止地各问一轮就转走，未见深入
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-153713,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,5,S3,话题简短处理 (treat topics briefly),那好，我有一个问题想问您，您的名字是什么呢？,"话题浅尝辄止：食物话题（t1-4）只进行了一轮就被放弃，转向""名字""这一新话题，随后名字话题也只问了一轮又被放弃（t7转向历史）"
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-153713,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,7,S3,话题简短处理 (treat topics briefly),这里有一个问题，您想了解什么关于中国的古老历史呢？,话题浅尝辄止：名字话题（t5-6）仅一轮即被放弃，转向中国古代历史这一全新且宽泛的话题
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S3,话题简短处理 (treat topics briefly),对了，我们今天可以聊聊日常生活中常用的词汇，以便你在日常生活中更好地发挥你的中文语言能力。,住房话题只谈了一轮就被放弃，转向新的词汇小话题，未深入。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,9,S3,话题简短处理 (treat topics briefly),我知道您希望接下来我们可以探讨更复杂的话题，例如健康，学校和工作等。我们可以开始从健康开始。,此前的词汇练习话题（购物/用餐/交通等）逐轮更换、均未深入，此处又快速关闭转向健康话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,13,S3,话题简短处理 (treat topics briefly),让我们继续探索其他话题！,健康话题只谈了两轮就被放弃，转向留学话题，浅尝辄止。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,17,S3,话题简短处理 (treat topics briefly),那么，您曾在哪个城市住过吗？,留学话题只谈了两轮就被放弃，转向故乡话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134005,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,5,S3,话题简短处理 (treat topics briefly),今天我们可以讨论一个与生活相关的话题，具体来讲我们可以讨论一个喜爱的食物或一个喜欢的活动吗？,此前的学校课程话题只谈了一轮就被放弃（老师甚至说“之前的回答……应该更专门地回答”），转向完全不相关的新话题，浅尝辄止。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S3,话题简短处理 (treat topics briefly),Now let me ask you some questions to test what you have learned so far:,一次性抛出一组互不相关的简单小问题（吃饭时间/树种/宠物），随后每轮都更换为全新一组问题，浅尝辄止、频繁开合话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,5,S3,话题简短处理 (treat topics briefly),"Now, let me ask some more questions related to topic/task content:",又一轮抛出全新一组互不相关的小问题（运动/餐厅/学校活动），延续话题浅尝辄止的模式。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,7,S3,话题简短处理 (treat topics briefly),Here are some questions and answers to help us get started:,又一轮全新一组小问题（日常活动/居住地/手工技能），延续浅尝辄止模式。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,9,S3,话题简短处理 (treat topics briefly),"Now, let's challenge yourself a bit more with some additional questions:",又一轮全新一组小问题（读的书/城市人是否热情/购买的电子产品），延续浅尝辄止模式。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,11,S3,话题简短处理 (treat topics briefly),现在给你几个新的问题，让我们一起练习更多的中文句子和表达。,又一轮全新一组小问题（新鲜事/职业/尝试新食物），延续浅尝辄止模式。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,13,S3,话题简短处理 (treat topics briefly),现在让我们来练习几个更挑战性的问题，来练习更复杂的语言和主题。,又一轮全新一组小问题（计划/学校大小/音乐），延续浅尝辄止模式。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,15,S3,话题简短处理 (treat topics briefly),接下来我有几个更挑战性的问题，让我们一起练习更多的中文：,又一轮全新一组小问题（出国旅游/家人住处/成就感），延续浅尝辄止模式。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,17,S3,话题简短处理 (treat topics briefly),现在来让我们继续练习一些新的问题，以便更好地练习你的中文：,又一轮全新一组小问题（新鲜事/英文水平/读过的书），延续浅尝辄止模式。
 Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-121944,Qwen2.5-7B-Instruct,HSK4,human,3,S3,话题简短处理 (treat topics briefly),你平时最喜欢读什么类型的书呢？,
 Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135927,Qwen2.5-7B-Instruct,HSK7,human,3,S3,话题简短处理 (treat topics briefly),你喜欢哪种类型的书？,
 Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135927,Qwen2.5-7B-Instruct,HSK7,human,5,S3,话题简短处理 (treat topics briefly),你有推荐的现代小说或者科幻书吗？,
@@ -255,13 +483,59 @@ Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-121758,Qwen2.5-7B-Instruct,HSK4,claude_c
 Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-121944,Qwen2.5-7B-Instruct,HSK4,claude_candidate,7,S4,使新话题显著化 (make new topics salient),另外，你可以试试看一些现代历史题材的小说，,用“另外”作框架词，把话题从《三国演义》具体角色讨论真正切换到现代历史小说推荐这一子话题。
 Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-123044,Qwen2.5-7B-Instruct,HSK4,claude_candidate,9,S4,使新话题显著化 (make new topics salient),说到中国的传统花卉,以“说到”作为话题边界标记词，从梅花诗词自然过渡到传统花卉象征意义这一新子话题，边界确实存在。
 Qwen--Qwen2.5-7B-Instruct|HSK4|20260417-123044,Qwen2.5-7B-Instruct,HSK4,claude_candidate,13,S4,使新话题显著化 (make new topics salient),接下来，我想请你再练习一下中文口语表达,“接下来”标记话题边界，从花卉讨论转向口语角色扮演练习，新话题确实开启。
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135349,Qwen2.5-7B-Instruct,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),对于中文小说，,话题框架词，标记从总体评价转入具体推荐小说这一子话题的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135349,Qwen2.5-7B-Instruct,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),至于电影，,话题框架词，标记从小说推荐转入电影推荐的话题边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135349,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),具体到《三体》，,标记从泛泛的学习方法转入针对《三体》具体建议的话题边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135349,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),观看《让子弹飞》时，,标记从《三体》相关建议转入《让子弹飞》观影建议的话题边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135927,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),说到阅读，,话题框架词，标记从书籍话题转入学习软件话题的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135927,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),此外，,话题框架词，标记引入线上汉语课程这一新话题
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-135927,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),除了这些应用和课程之外，,话题框架词，标记引入中文影视剧这一新话题
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),关于《追风筝的人》，,话题框架词，标记从《活着》评价转向《追风筝的人》评价的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),除了这些，,话题框架词，标记从具体作品评价转向询问其他阅读经历的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),另外，你平时在阅读的时候会用什么样的方法来提高自己的汉语水平？比如做笔记、总结人物关系等？,"话题框架词""另外""标记转入学习方法这一新话题"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),你还记得《活着》里的主要角色和他们的命运吗？,以提名话题的问句形式，把话题从科幻作品重新转回《活着》人物梳理
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),此外，,话题框架词，标记引入分享更多书籍/电影的新话题
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),接下来，,话题框架词，标记转入深入讨论两本书异同这一环节的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),另外，,话题框架词，标记引入模拟采访这一新活动
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),现在，请问第一个问题：,"话语框架词""现在""标记进入采访问题清单第一题的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),好的，接下来您还有什么问题吗？,"话语框架词""接下来""标记从上一题转入下一题的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),好了，这次模拟采访我们就到这里结束。,"话语框架词""好了""（相当于OK/Well）标记模拟采访环节结束、转入总结阶段的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),下面是我们接下来可以进一步讨论的方向：,"话语框架词""下面/接下来""标记从总结环节转入新的讨论方向清单的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),如果我们决定讨论《围城》，,以条件句提名《围城》为具体新话题，标记话题边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,15,S4,使新话题显著化 (make new topics salient),以下是我们接下来可以讨论的一些方向：,"话语框架词""接下来""标记列出围城讨论方向清单的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,15,S4,使新话题显著化 (make new topics salient),首先，我们来谈谈,"话语框架词""首先""标记从方向清单转入具体讨论""讽刺与幽默""这一子话题的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,17,S4,使新话题显著化 (make new topics salient),接下来，,话语框架词标记转入继续讨论其他方面的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-140519,Qwen2.5-7B-Instruct,HSK7,claude_candidate,17,S4,使新话题显著化 (make new topics salient),现在，,"话语框架词标记（与manual示例""现在，""完全一致）"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),说到印象深刻的成语，,"话语框架词""说到""标记引入""三顾茅""这一新成语话题的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),除了“随波逐流”，,"话语框架词标记引入""不计前嫌""这一新成语话题的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),接下来，,话语框架词，标记转入推荐新一批成语列表的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),除了刚才提到的成语外，,"话语框架词标记引入""守株待兔""""一箭双雕""等（再次点名）新成语话题的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142307,Qwen2.5-7B-Instruct,HSK7,claude_candidate,15,S4,使新话题显著化 (make new topics salient),除了以上这些成语之外，,话语框架词标记引入更多成语分享环节的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),关于“国际舞台上的作用”，,"以""关于+学生原话措辞""形式提名话题，标记边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),其他国家也有很多重大的太空探索项目值得我们关注：,标记从中国探月计划转向其他国家太空项目的话题边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260417-142824,Qwen2.5-7B-Instruct,HSK7,claude_candidate,15,S4,使新话题显著化 (make new topics salient),接下来，,话语框架词标记转入学生此前提出的下一步讨论方向清单的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),顺便问一下，,manual列出的原型话语框架词，标记转入书籍/电影话题的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),另外，,话语框架词标记引入环保类书籍/纪录片推荐这一新话题
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),关于纪录片，,话语框架词标记转入纪录片话题板块的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),谈到旅游，,话语框架词标记转入旅游话题板块的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),说到美食，,话语框架词标记转入美食话题板块的边界
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),除了“三打白骨精”，,"话语框架词标记引入""真假美猴王""""火焰山""等新情节话题的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),关于角色情感的真实性，,"以""关于""提名话题，标记转入该子话题的边界"
+Qwen--Qwen2.5-7B-Instruct|HSK7|20260418-085250,Qwen2.5-7B-Instruct,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),那么，,manual列出的原型话语框架词
 google--gemma-3-12b-it|HSK1|20260304-190219,gemma-3-12b-it,HSK1,claude_candidate,3,S4,使新话题显著化 (make new topics salient),现在，我们来问一些简单的问题。,以“现在”为话题边界标记词，从姓名寒暄过渡到基本信息问答（性别）这一新子话题。
 google--gemma-3-12b-it|HSK1|20260304-190219,gemma-3-12b-it,HSK1,claude_candidate,13,S4,使新话题显著化 (make new topics salient),现在我们练习一下数字吧。,以“现在”标记话题边界，从日常问候转向数字练习这一新子话题。
 google--gemma-3-12b-it|HSK1|20260304-190219,gemma-3-12b-it,HSK1,claude_candidate,15,S4,使新话题显著化 (make new topics salient),接下来，我想知道你有什么爱好？,以“接下来”标记话题边界，从数字练习转向兴趣爱好这一新子话题。
+google--gemma-3-12b-it|HSK1|20260304-190827,gemma-3-12b-it,HSK1,claude_candidate,5,S4,使新话题显著化 (make new topics salient),现在我们换个问题。,话语框架词'现在'+显式宣布换话题，标记话题边界
+google--gemma-3-12b-it|HSK1|20260304-190827,gemma-3-12b-it,HSK1,claude_candidate,9,S4,使新话题显著化 (make new topics salient),现在，我想问你一个简单的问题。,'现在'+元话语宣布提问，标记话题边界
+google--gemma-3-12b-it|HSK1|20260304-190827,gemma-3-12b-it,HSK1,claude_candidate,15,S4,使新话题显著化 (make new topics salient),现在我们来玩一个小游戏。,'现在'标记转入新活动/话题边界
 google--gemma-3-12b-it|HSK1|20260304-190957,gemma-3-12b-it,HSK1,claude_candidate,3,S4,使新话题显著化 (make new topics salient),现在我们练习一下吧。,话语标记词'现在'，从寒暄过渡到练习环节，标出话题边界
 google--gemma-3-12b-it|HSK1|20260304-190957,gemma-3-12b-it,HSK1,claude_candidate,5,S4,使新话题显著化 (make new topics salient),现在，,话语标记词'现在'，引出下一个问题(自我介绍练习)
 google--gemma-3-12b-it|HSK1|20260304-190957,gemma-3-12b-it,HSK1,claude_candidate,15,S4,使新话题显著化 (make new topics salient),现在，我们玩一个游戏。,话语标记词'现在'，引入新的活动/话题(颜色游戏)
 google--gemma-3-12b-it|HSK1|20260304-190957,gemma-3-12b-it,HSK1,claude_candidate,17,S4,使新话题显著化 (make new topics salient),下一个颜色：黄色!,话语标记词'下一个'，标出色彩问答系列中新一轮的话题边界
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,5,S4,使新话题显著化 (make new topics salient),现在轮到我了！,'现在'标记轮次/话题转换（从学生爱好转到老师自己的爱好）
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,9,S4,使新话题显著化 (make new topics salient),现在，我们换个话题吧。,显式'现在...换个话题'宣告，标记话题边界
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,13,S4,使新话题显著化 (make new topics salient),现在，我想问你一个简单的问题。,'现在，我想问你...'宣告新问题，标记话题边界
+google--gemma-3-12b-it|HSK1|20260304-191854,gemma-3-12b-it,HSK1,claude_candidate,15,S4,使新话题显著化 (make new topics salient),现在，让我们做一个小游戏。,'现在'标记转入新活动，话题边界清晰
 google--gemma-3-12b-it|HSK1|20260304-192729,gemma-3-12b-it,HSK1,claude_candidate,3,S4,使新话题显著化 (make new topics salient),现在，,话语标记词'现在'，从姓名话题过渡到性别话题
 google--gemma-3-12b-it|HSK1|20260304-192729,gemma-3-12b-it,HSK1,claude_candidate,5,S4,使新话题显著化 (make new topics salient),现在，,话语标记词'现在'，从性别话题过渡到年龄话题
 google--gemma-3-12b-it|HSK1|20260304-192729,gemma-3-12b-it,HSK1,claude_candidate,13,S4,使新话题显著化 (make new topics salient),现在我们来玩一个简单的游戏。,话语标记词'现在'，从爱好话题过渡到游戏活动
@@ -272,6 +546,11 @@ google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate
 google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate,11,S4,使新话题显著化 (make new topics salient),现在我们来玩一个小游戏！,话语标记词'现在'，从数字/年龄话题过渡到颜色游戏
 google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate,13,S4,使新话题显著化 (make new topics salient),下一个：(Xià ge:) Next one:,话语标记词'下一个'，标出ST4系列中新一轮的话题边界
 google--gemma-3-12b-it|HSK1|20260304-193606,gemma-3-12b-it,HSK1,claude_candidate,15,S4,使新话题显著化 (make new topics salient),最后一个：(Zuì hòu yī ge:) Last one:,话语标记词'最后一个'，标出ST4系列的收尾边界
+google--gemma-3-12b-it|HSK1|20260304-193810,gemma-3-12b-it,HSK1,claude_candidate,3,S4,使新话题显著化 (make new topics salient),现在，告诉我， 你今天做了什么？,'现在'标记话题转换
+google--gemma-3-12b-it|HSK1|20260304-193810,gemma-3-12b-it,HSK1,claude_candidate,5,S4,使新话题显著化 (make new topics salient),"Now, 让我问你一个问题。",'Now'+元话语宣告提问，标记话题边界
+google--gemma-3-12b-it|HSK1|20260304-193810,gemma-3-12b-it,HSK1,claude_candidate,7,S4,使新话题显著化 (make new topics salient),现在，你想学什么新的词语？,'现在'标记转向新的（词汇学习）话题
+google--gemma-3-12b-it|HSK4|20260418-101818,gemma-3-12b-it,HSK4,claude_candidate,7,S4,使新话题显著化 (make new topics salient),那么，为了帮助你学习汉字，你尝试过什么方法呢？,'那么'标记从'汉字难度'到'学习方法'的子话题转换
+google--gemma-3-12b-it|HSK4|20260418-101818,gemma-3-12b-it,HSK4,claude_candidate,15,S4,使新话题显著化 (make new topics salient),接下来我们来分析“家 (jiā - home/family)” 这个字怎么样？,'接下来'标记转入下一个汉字（新话题）
 google--gemma-3-12b-it|HSK4|20260418-124420,gemma-3-12b-it,HSK4,claude_candidate,7,S4,使新话题显著化 (make new topics salient),现在该你问我了！ 你想知道关于什么呢？,话语标记词'现在'，同时标出话轮/话题边界
 google--gemma-3-12b-it|HSK4|20260418-144237,gemma-3-12b-it,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),那我们来聊聊科幻电影吧。,'那'作为话语框架词，标出从t=1宽泛提问到具体'科幻电影'话题的边界
 google--gemma-3-12b-it|HSK4|20260418-144237,gemma-3-12b-it,HSK4,claude_candidate,5,S4,使新话题显著化 (make new topics salient),接下来，,话语标记词'接下来'，标出话题内部子方向(角色/主题)转换的边界
@@ -279,11 +558,23 @@ google--gemma-3-12b-it|HSK4|20260418-144237,gemma-3-12b-it,HSK4,claude_candidate
 google--gemma-3-12b-it|HSK4|20260418-144237,gemma-3-12b-it,HSK4,claude_candidate,9,S4,使新话题显著化 (make new topics salient),现在，你是否想继续讨论其他科幻电影，或者练习其他的对话场景？,话语标记词'现在'，标出从《星际穿越》话题过渡到下一阶段的边界
 google--gemma-3-12b-it|HSK4|20260418-152121,gemma-3-12b-it,HSK4,claude_candidate,9,S4,使新话题显著化 (make new topics salient),现在轮到你了， ,话语标记词'现在'，标出从电影角色话题过渡到新领域(书籍/节目)的边界
 google--gemma-3-12b-it|HSK4|20260418-152121,gemma-3-12b-it,HSK4,claude_candidate,15,S4,使新话题显著化 (make new topics salient),接下来， 你想继续聊聊之前提到的电影或书籍， 还是换个话题呢？,话语标记词'接下来'，标出阶段性总结后向下一阶段过渡的边界
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),那我们就从周末计划开始吧。,'那'标记正式进入学生所选的具体话题
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,5,S4,使新话题显著化 (make new topics salient),现在轮到我了。,'现在'标记话轮/发言权转换的边界标记
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,13,S4,使新话题显著化 (make new topics salient),为了更好地进行交流，我们来做一个小练习怎么样？,宣告转入新的练习活动，标记边界
+google--gemma-3-12b-it|HSK4|20260418-152654,gemma-3-12b-it,HSK4,claude_candidate,15,S4,使新话题显著化 (make new topics salient),现在，咱们换一种话题，你喜欢什么运动？,'现在...换一种话题'显式宣告话题转换
 google--gemma-3-12b-it|HSK4|20260418-153131,gemma-3-12b-it,HSK4,claude_candidate,9,S4,使新话题显著化 (make new topics salient),接下来，,话语标记词'接下来'，标出从《三体》具体讨论过渡到更广泛爱好话题的边界
 google--gemma-3-12b-it|HSK4|20260418-153131,gemma-3-12b-it,HSK4,claude_candidate,15,S4,使新话题显著化 (make new topics salient),现在，,话语标记词'现在'，标出从美食/烹饪话题过渡到旅游景点新话题的边界
 google--gemma-3-12b-it|HSK4|20260418-153559,gemma-3-12b-it,HSK4,claude_candidate,7,S4,使新话题显著化 (make new topics salient),现在我们来练习。,话语框架词“现在”标记进入新练习任务的边界。
 google--gemma-3-12b-it|HSK4|20260418-153559,gemma-3-12b-it,HSK4,claude_candidate,9,S4,使新话题显著化 (make new topics salient),接下来，,“接下来”引出邀请朋友描述风景的新任务。
 google--gemma-3-12b-it|HSK4|20260418-153559,gemma-3-12b-it,HSK4,claude_candidate,11,S4,使新话题显著化 (make new topics salient),现在，,“现在”引出20字朋友圈文案的新挑战。
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),现在轮到你了。,'现在轮到你了'标记话轮/话题转换边界
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,5,S4,使新话题显著化 (make new topics salient),现在，我想考考你。请你用中文描述一下你最喜欢的一道中国菜。,'现在'标记转入新的（测验式）活动/话题
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,7,S4,使新话题显著化 (make new topics salient),现在，我们换个话题。,显式'现在...换个话题'宣告话题边界
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,9,S4,使新话题显著化 (make new topics salient),现在，我想问一个更深入的问题：,'现在，我想问...'标记新问题/话题边界
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,15,S4,使新话题显著化 (make new topics salient),接下来，我们来聊聊写作吧！,'接下来'标记转入写作这一新话题
+google--gemma-3-12b-it|HSK4|20260418-154406,gemma-3-12b-it,HSK4,claude_candidate,17,S4,使新话题显著化 (make new topics salient),为了实践，我们现在就来做一个小练习。,宣告转入新的练习活动，标记话题边界
+google--gemma-3-12b-it|HSK4|20260418-161200,gemma-3-12b-it,HSK4,claude_candidate,5,S4,使新话题显著化 (make new topics salient),现在，我想问你一个问题：,'现在，我想问你...'标记新问题/话题边界
+google--gemma-3-12b-it|HSK4|20260418-161200,gemma-3-12b-it,HSK4,claude_candidate,13,S4,使新话题显著化 (make new topics salient),对了，你觉得学习一门新的语言最大的乐趣是什么？,'对了'作为话语框架词，标记从做菜话题转向语言学习乐趣的新话题
 google--gemma-3-12b-it|HSK7|20260418-165705,gemma-3-12b-it,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),说到成都的美食，那可就太多了！,“说到成都的美食”标记转入餐厅推荐子话题。
 google--gemma-3-12b-it|HSK7|20260418-165705,gemma-3-12b-it,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),另外，你觉得下次我们继续聊聊中国的其他菜系怎么样？ 比如，粤菜、淮扬菜、或者京菜？ 你对哪种菜系比较感兴趣？,“另外”作为话语框架词标记新话题边界。
 google--gemma-3-12b-it|HSK7|20260418-165705,gemma-3-12b-it,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),说到广州的早茶，那可是一个绝佳的主题！,“说到广州的早茶”标记转入早茶子话题。
@@ -309,6 +600,13 @@ google--gemma-3-12b-it|HSK7|20260419-230131,gemma-3-12b-it,HSK7,claude_candidate
 google--gemma-3-12b-it|HSK7|20260419-230131,gemma-3-12b-it,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),现在，我们可以放松一下，谈谈其他话题。,“现在”标记从诗歌话题转向轻松话题的边界。
 google--gemma-3-12b-it|HSK7|20260419-230131,gemma-3-12b-it,HSK7,claude_candidate,15,S4,使新话题显著化 (make new topics salient),既然我们聊到了文化方面，,“既然我们聊到了文化方面”标记转入中国文化话题的边界。
 google--gemma-3-12b-it|HSK7|20260419-230131,gemma-3-12b-it,HSK7,claude_candidate,17,S4,使新话题显著化 (make new topics salient),最后，,“最后”标记进入本次对话最后一个问题的边界。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),话说回来， 你最近有没有读过什么感兴趣的书籍或者文章？ 我们也可以聊聊文学作品，怎么样？,'话说回来'是话语框架词，标记从电影话题转向文学话题的边界。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),阅读之外，你平时还会通过哪些途径来提升你的中文水平呢？ 比如看新闻，听广播，还是其他方法？,'阅读之外'标记从书籍推荐转向学习方法话题的边界；同时是开放问句+举例式or-choice，决定权交给学生，学生下一轮具体回答了看新闻、听播客。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),顺便问一句， 你有没有打算考取某种语言证书呢？ 比如说HSK或者其他国际认可的语言考试？,'顺便问一句'标记从学习方法话题转向语言证书话题的边界。
+google--gemma-3-12b-it|HSK7|20260419-231558,gemma-3-12b-it,HSK7,claude_candidate,15,S4,使新话题显著化 (make new topics salient),最后提一个问题，你觉得在学习中文的过程中，最大的困难是什么？ 是语法，词汇，还是发音？,'最后提一个问题'标记转向新话题（学习难点）的边界；同时是开放问句+or-choice，学生下一轮具体回答了词汇量不足、汉字量大。
+google--gemma-3-12b-it|HSK7|20260420-002254,gemma-3-12b-it,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),接下来， 我们换个话题， 聊聊你感兴趣的其他领域。 你最近有没有在关注国际新闻？ 对当下的一些热点问题有什么看法？,'接下来，我们换个话题'明确标记话题边界，转向国际新闻。
+google--gemma-3-12b-it|HSK7|20260420-002254,gemma-3-12b-it,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),接下来， 你希望继续讨论这些话题， 还是想尝试其他主题？,'接下来'标记边界；同时是显式or-choice（继续当前话题/换新主题），把决定权交给学生，学生下一轮选择了转向中国书法话题，老师跟随。
+google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),希望这些信息对你有帮助！😊 下次我们可以聊聊川菜中的特色面食或者甜品！ 你想先听哪个？,'下次我们可以聊聊...'标记转向新的菜品类别（面食/甜品）；同时是显式or-choice，学生下一轮选择了面食，老师跟随。
 google--gemma-3-12b-it|HSK7|20260420-013339,gemma-3-12b-it,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),我们现在就开始吧。,“现在”标记角色扮演正式开始的边界。
 google--gemma-3-12b-it|HSK7|20260420-013339,gemma-3-12b-it,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),首先，你进到餐厅之后，你会怎么跟服务员打招呼？,“首先”标记进入第一步(打招呼)的边界。
 google--gemma-3-12b-it|HSK7|20260420-013339,gemma-3-12b-it,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),接下来，我会说,“接下来”标记服务员下一步动作的边界。
@@ -323,12 +621,24 @@ google--gemma-3-12b-it|HSK7|20260420-021554,gemma-3-12b-it,HSK7,claude_candidate
 google--gemma-3-12b-it|HSK7|20260420-021554,gemma-3-12b-it,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),既然你喜欢传统文化，,“既然你喜欢传统文化”承接学生已表态内容，标记转入京剧子话题的边界。
 google--gemma-3-12b-it|HSK7|20260420-021554,gemma-3-12b-it,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),另外，如果你想了解更多背景知识，可以看看杨紫荆写的《中国评剧史》,“另外”标记补充推荐读物的边界。
 meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153125,Llama-3.1-8B-Instruct,HSK1,claude_candidate,7,S4,使新话题显著化 (make new topics salient),以后我们继续学习一些日常用语吧。我可以跟你讲一些关于食堂的菜单怎么读，或者如何点餐。,从避暑话题直接转向食堂点餐话题，老师单方面决定新话题但确有真实的话题边界
+meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153209,Llama-3.1-8B-Instruct,HSK1,claude_candidate,13,S4,使新话题显著化 (make new topics salient),接下来，让我们看看鞋子！,'接下来'标记从服装话题转向鞋子话题的边界。
 meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-153632,Llama-3.1-8B-Instruct,HSK1,claude_candidate,17,S4,使新话题显著化 (make new topics salient),顺带一句，我想问你，你是否考虑过利用摄影和文字来记录一些都市里的人们的生活和故事？我觉得这个话题会很有趣。,话语框架词'顺带一句'标记出一个确实存在的新话题边界(从上海文艺氛围转到记录都市人物故事)
 meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154225,Llama-3.1-8B-Instruct,HSK1,claude_candidate,7,S4,使新话题显著化 (make new topics salient),現在，讓我們談一下你要去的城市吧，我可以給你一些建議或提供一些信息，有關桂林和廣州的旅遊攻略，或是如何準備參加學術會議等等。,话语框架词'現在'标记从'感谢与鼓励'到'具体行程建议'的真实话题转换，且承接学生此前已提到的桂林/广州计划
 meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154529,Llama-3.1-8B-Instruct,HSK1,claude_candidate,5,S4,使新话题显著化 (make new topics salient),让我们从自我介绍开始。,承接上一轮S1中学生选定的'口语'路径，用话语标记'让我们...开始'标出具体子话题的边界
 meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154529,Llama-3.1-8B-Instruct,HSK1,claude_candidate,7,S4,使新话题显著化 (make new topics salient),现在，让我们继续练习其他话题，譬如“请问……”或 “哪里……”这些词汇可以让你询问路线导航。,话语标记'现在'引出真实的新子话题(问路表达)
 meta-llama--Llama-3.1-8B-Instruct|HSK1|20260304-154529,Llama-3.1-8B-Instruct,HSK1,claude_candidate,13,S4,使新话题显著化 (make new topics salient),那么，让我们再继续练习一下！这回我们谈论一下饮食和餐厅。,话语标记'那么...这回我们谈论'标出从问路话题到餐厅点餐话题的真实转换
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121344,Llama-3.1-8B-Instruct,HSK4,claude_candidate,5,S4,使新话题显著化 (make new topics salient),对了，你要不要来一块儿？,“对了”标记引出新的邀请话题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121344,Llama-3.1-8B-Instruct,HSK4,claude_candidate,7,S4,使新话题显著化 (make new topics salient),另外，你喜欢喝绿茶还是红茶？,or-choice问茶偏好，下一轮学生答绿茶+家乡习惯，t=9老师顺着绿茶话题走，确认放弃控制；同时是贴近学生的简单偏好问题；“另外”是话题标记词
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121344,Llama-3.1-8B-Instruct,HSK4,claude_candidate,15,S4,使新话题显著化 (make new topics salient),另外，关于时间表，,“另外，关于……”标记引出时间表这一子话题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121802,Llama-3.1-8B-Instruct,HSK4,claude_candidate,13,S4,使新话题显著化 (make new topics salient),不过，关于这次的行程，有一样需要注意。,“关于……”标记引出行程确认这一子话题
 meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122146,Llama-3.1-8B-Instruct,HSK4,claude_candidate,5,S4,使新话题显著化 (make new topics salient),说起来，你有喜欢的图书类型吗？,话语框架词'说起来'标出从'公园散步'到'阅读喜好'的真实话题转换
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-122716,Llama-3.1-8B-Instruct,HSK4,claude_candidate,7,S4,使新话题显著化 (make new topics salient),话说回来，你觉得你的朋友知道太多好消息啊，他为什么告诉你这个信息呢？,“话说回来”标记引出关于朋友动机这一子话题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123630,Llama-3.1-8B-Instruct,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),另外，关于中英文图书，你想要什么类型的书呢？你喜欢读中文还是英文？,or-choice问读书类型/语言偏好，t=4学生详细回答，t=5老师跟进该话题；同时是贴近学生的简单偏好问题；“另外，关于……”是话题标记词
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123630,Llama-3.1-8B-Instruct,HSK4,claude_candidate,11,S4,使新话题显著化 (make new topics salient),关于在线阅读平台，,“关于……”标记引出在线阅读平台这一子话题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123630,Llama-3.1-8B-Instruct,HSK4,claude_candidate,13,S4,使新话题显著化 (make new topics salient),关于学习笔记的部分，,“关于……”标记引出学习笔记这一子话题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123630,Llama-3.1-8B-Instruct,HSK4,claude_candidate,13,S4,使新话题显著化 (make new topics salient),关于转换纸质书籍为电子格式的事，,“关于……”标记引出电子化这一子话题
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123630,Llama-3.1-8B-Instruct,HSK4,claude_candidate,15,S4,使新话题显著化 (make new topics salient),首先，,把复杂问题拆成一串小点的第一个标记词
+meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-123630,Llama-3.1-8B-Instruct,HSK4,claude_candidate,15,S4,使新话题显著化 (make new topics salient),最后，,把复杂问题拆成一串小点的最后一个标记词
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-125657,Llama-3.1-8B-Instruct,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),你知道吗，公司要求我们写一篇关于科技创新与社会发展的报告。,用话语标记词'你知道吗'引出全新话题，从学生的期末考试话题转向老师自己的报告主题
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-125657,Llama-3.1-8B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),那么，从你所学到的知识中,从教师铺陈观点转向邀请学生反思提问，标记话轮功能边界
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-125657,Llama-3.1-8B-Instruct,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),那么，从你这里开始,话语标记词引出下一段落的邀请提问
@@ -346,10 +656,21 @@ meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130748,Llama-3.1-8B-Instruct,HSK
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130748,Llama-3.1-8B-Instruct,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),关于发音和表达方式，,'关于...'结构引出反馈子话题
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130748,Llama-3.1-8B-Instruct,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),关于电影和电视剧资源的收集和分享，,'关于...'结构引出反馈子话题
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130748,Llama-3.1-8B-Instruct,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),现在，我们距离下周二见面不久了,话语标记词'现在'转向后续安排话题
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),关于个人成长的角度，,“关于……”标记引出个人成长这一子话题
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),关于人性的复杂多样性，,“关于……”标记引出人性话题
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),关于在现代社会中普及自我反省的技巧，,“关于……”标记引出该子话题
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),首先，,把复杂问题拆成一串小点的第一个标记词
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-130908,Llama-3.1-8B-Instruct,HSK7,claude_candidate,13,S4,使新话题显著化 (make new topics salient),最后，,把复杂问题拆成一串小点的最后一个标记词
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131001,Llama-3.1-8B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),有没有你的新小说在酝酿中吗？,提名话题的问句形式，从公园景色转向学生的写作话题
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131001,Llama-3.1-8B-Instruct,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),顺便问一下，,与codebook示例完全一致的话语标记词，引出写作技巧子话题
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131001,Llama-3.1-8B-Instruct,HSK7,claude_candidate,15,S4,使新话题显著化 (make new topics salient),现在的我们，还是继续散步下去吗？,话语标记词'现在'标记场景/话题过渡
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131001,Llama-3.1-8B-Instruct,HSK7,claude_candidate,17,S4,使新话题显著化 (make new topics salient),我注意到一个美术馆的牌匾,场景转换引出新话题（美术馆），随后邀请学生一同前往
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-131031,Llama-3.1-8B-Instruct,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),另外，还有没有其他比那个更舒适点儿的地方呢？,「另外」标记话题边界；同时再次把选择权交给学生，学生随后提出「温州园」并被老师采纳。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132256,Llama-3.1-8B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),我们学校的体育部组织了一个户外运动活动，很多同学都在参加。你去参加吗？,从天气话题转向新话题（户外活动），以提问形式提名新话题。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132347,Llama-3.1-8B-Instruct,HSK7,claude_candidate,3,S4,使新话题显著化 (make new topics salient),听说最近你们那边有个新电影院开张了，对吧？,从天气转向新话题（学生所在地的新电影院），既贴近学生所在地，又是明显的话题边界。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132347,Llama-3.1-8B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),另外，你知道电影院里有什么推荐电影吗？最近哪些片子比较火热呢？,「另外」标记新子话题；同时把选哪部电影的决定权交给学生，学生随后提出科幻电影建议并被老师采纳（见下一老师话轮）。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132347,Llama-3.1-8B-Instruct,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),另外，如果电影院有宽屏幕和立体声，我也想要看看，因为之前听说新电影院都配备了这些设备。,「另外」标记子话题边界（转向影院设备）。
+meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132347,Llama-3.1-8B-Instruct,HSK7,claude_candidate,11,S4,使新话题显著化 (make new topics salient),等一下，我也想问一下，你平时去看电影的时候喜欢坐在哪里座位？你有固定的座位位置吗？,用「等一下，我也想问一下」标记新话题边界，并选择贴近学生个人习惯（座位偏好）的话题。
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132732,Llama-3.1-8B-Instruct,HSK7,claude_candidate,5,S4,使新话题显著化 (make new topics salient),你知道吗，,话语标记词引出雕塑艺术项目这一新话题
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132732,Llama-3.1-8B-Instruct,HSK7,claude_candidate,7,S4,使新话题显著化 (make new topics salient),另外，,话语标记词引出周边商店/咖啡厅这一子话题
 meta-llama--Llama-3.1-8B-Instruct|HSK7|20260417-132732,Llama-3.1-8B-Instruct,HSK7,claude_candidate,9,S4,使新话题显著化 (make new topics salient),关于太阳升起的事情，,'关于...'结构引出谚语话题
@@ -363,12 +684,44 @@ mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-145943,Mistral-7B-Instruct-v0.
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-145943,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,15,S4,使新话题显著化 (make new topics salient),先让我问一个问题,"""先让我问一个问题""作为话语框架词标记新问题/话题的引入"
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-150300,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,11,S4,使新话题显著化 (make new topics salient),现在，请问您最喜欢练习中文的环境是哪个？,"""现在""标记话题转折（从锲镶弓练习环境转到中文学习环境）"
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-150300,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,13,S4,使新话题显著化 (make new topics salient),另外，我想问一下您的姓名，您的职业以及您所处理的事情？,"""另外""作为话语框架词标记新的小问题"
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,11,S4,使新话题显著化 (make new topics salient),"我有一些问题需要你回答。你有没有其他的喜欢吃的食物？
+
+还有，你平时如何回家上班？你通常使用什么交通工具？
+
+最后，你最喜欢什么娱乐活动呢？",用「还有」「最后」把一连串关于学生生活的问题串联起来，构成分段提问的话题标记链。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-152202,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,15,S4,使新话题显著化 (make new topics salient),那我们再继续吧。,转折词标记新话题（音乐）的开始。
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-153713,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,7,S4,使新话题显著化 (make new topics salient),这里有一个问题，您想了解什么关于中国的古老历史呢？,"""这里有一个问题""作为话语框架词标记新话题的引入"
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260303-153713,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,9,S4,使新话题显著化 (make new topics salient),太好了！我有另一个关于中国历史的问题，,"""我有另一个...问题""标记从宽泛的古代历史话题收窄到""古代文献""这一子话题"
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,1,S4,使新话题显著化 (make new topics salient),接下来，我要问你一件关于日常生活的问题：你喜欢吃什么食物？,「接下来」标记话题边界，问题内容（喜欢的食物）贴近学生。（开场轮次，仅作为真实出现的S2/S4实例记录，不涉及S1缺席判断）
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,3,S4,使新话题显著化 (make new topics salient),现在，我有一些有趣的小作业给你。,「现在」标记转向新活动（布置小作业）的边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,3,S4,使新话题显著化 (make new topics salient),你上周去了哪些地方？你在家里做了些什么？你最近看了什么电影或书呢？,把一个大问题拆成一串关于学生日常生活的小问题，兼具S2（贴近学生）与S4（拆分提问）。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,13,S4,使新话题显著化 (make new topics salient),接下来让我们继续练习，你可以告诉我一个新的话题，例如你最近有哪些计划吗？或者你最喜欢的运动是什么？,「接下来」标记新阶段边界；此处老师随后自问自答（未等学生真实回应即给出示例答案），故不计S1，仅计话题边界标记S4。
+mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-004138,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,15,S4,使新话题显著化 (make new topics salient),我可以问你一个问题，例如“你最近看过了哪些电影”（你最近看过哪些电影吗？）或者“你最近看过了哪些图书”（你最近看过哪些图书吗？）。,提名新话题（近期看过的电影/图书），内容贴近学生；同样老师随后自问自答，未真正等待学生选择，故不计S1。
 mistralai--Mistral-7B-Instruct-v0.3|HSK1|20260304-080426,Mistral-7B-Instruct-v0.3,HSK1,claude_candidate,9,S4,使新话题显著化 (make new topics salient),你可能有很多关于您的家庭、居住地、工作等等的信息要介绍给我吗？,话题转换到家庭/居住地/工作，属新话题的引入（承接上一句伪放弃之后老师自己选定的话题）
 mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-122231,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S4,使新话题显著化 (make new topics salient),另外，今天我们可以通过一些话题进行更加深入的练习，例如健康问题、校园生活和日常工作。,"""另外""标记新话题的引入（健康、校园、职场话题）"
 mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-122231,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S4,使新话题显著化 (make new topics salient),除此之外，我们也可以练习简单的职位招聘广告，帮助您在中国找到一个小工作。,"""除此之外""标记又一新子话题（招聘广告）的引入"
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-122718,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,9,S4,使新话题显著化 (make new topics salient),那么，你还在学什么呢？或者有什么其他问题想了解？我们可以一起讨论一下。,「那么」标记边界，「或者」构成或择框架，把话题决定权交给学生；老师并未在同一话轮内自问自答，学生在下一轮做出回应。
 mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-130837,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,17,S4,使新话题显著化 (make new topics salient),那么，你希望拥有一个 Bengal Cat 吗？,"""那么""标记话题转折，从介绍Bengal Cat特性转向询问学生个人意愿"
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),对了，我们今天可以聊聊日常生活中常用的词汇，以便你在日常生活中更好地发挥你的中文语言能力。,使用话语标记词“对了”标示从住房话题转向词汇话题的边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,9,S4,使新话题显著化 (make new topics salient),我知道您希望接下来我们可以探讨更复杂的话题，例如健康，学校和工作等。我们可以开始从健康开始。,用“接下来”标示话题边界，从词汇练习转向健康话题。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,11,S4,使新话题显著化 (make new topics salient),现在，我们来探索一个新话题，那就是健康。,用“现在”并直接点明“一个新话题”标示话题边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,13,S4,使新话题显著化 (make new topics salient),让我们继续探索其他话题！,显式宣告转向其他话题，标示话题边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-131523,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,17,S4,使新话题显著化 (make new topics salient),那么，您曾在哪个城市住过吗？,用“那么”标示从留学话题转向故乡话题的边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-132059,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),现在让我们转向您的健康问题。,用“现在”标示从广告修改话题转向健康话题的边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-132059,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,5,S4,使新话题显著化 (make new topics salient),现在让我们谈谈您的健康状态。,同样用“现在”标示转向健康话题（该轮为对上一轮内容的重复改写）。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-132059,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,7,S4,使新话题显著化 (make new topics salient),今天我们讨论的话题是中国的湾区地区，比如香港、台湾和澳门。,显式点明新话题（大湾区），标示话题边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-133314,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),那么，您有计划参观哪个地方吗？,用“那么”标示话题边界，转向询问学生本人的旅行计划。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-133314,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,7,S4,使新话题显著化 (make new topics salient),这一节课程的主题是每日生活和职业生活，我们将会谈论有关社区生活、健康状况、校园生活和日常办公工作等相关话题。,显式宣告新一节课程的话题范围，标示话题边界（尽管后续并未真正展开这些话题）。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-133314,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,9,S4,使新话题显著化 (make new topics salient),现在，我们来聊聊你所打算旅行的地方，这里有一些建议：,用“现在”标示话题边界，重新聚焦到旅行目的地。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-133314,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,11,S4,使新话题显著化 (make new topics salient),另外，请记住在高高地旅行时需要注意安全措施，如果你需要任何帮助，请告诉我，我会尽力帮忙。,用“另外”标示子话题边界，从行程建议转向安全提醒。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-133314,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,17,S4,使新话题显著化 (make new topics salient),另外，参加民俗活动是一个好主意，这样可以更好地体验西藏的文化和风格。,用“另外”标示子话题边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134005,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),关于学校的课程，我也有一些可以介绍的。,用“关于”标示话题边界，引出教师自己的课程推荐内容。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134005,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,5,S4,使新话题显著化 (make new topics salient),今天我们可以讨论一个与生活相关的话题，具体来讲我们可以讨论一个喜爱的食物或一个喜欢的活动吗？,宣告转向新话题（喜爱的食物/活动），标示话题边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134005,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,11,S4,使新话题显著化 (make new topics salient),非常棒！让我们开始谈论旅游。,显式宣告开始新话题（旅游），标示话题边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,11,S4,使新话题显著化 (make new topics salient),现在给你几个新的问题，让我们一起练习更多的中文句子和表达。,用“现在”标示新一组问题的话题边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,13,S4,使新话题显著化 (make new topics salient),现在让我们来练习几个更挑战性的问题，来练习更复杂的语言和主题。,用“现在”标示新一组问题的话题边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,15,S4,使新话题显著化 (make new topics salient),接下来我有几个更挑战性的问题，让我们一起练习更多的中文：,用“接下来”标示新一组问题的话题边界。
+mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134156,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,17,S4,使新话题显著化 (make new topics salient),现在来让我们继续练习一些新的问题，以便更好地练习你的中文：,用“现在”标示新一组问题的话题边界。
 mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134455,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,1,S4,使新话题显著化 (make new topics salient),先让我问一个小问题：,话语框架词标记问题/话题的引入
 mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134455,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),同时，,话语框架词，标记从读书话题转向音乐话题的边界
 mistralai--Mistral-7B-Instruct-v0.3|HSK4|20260417-134455,Mistral-7B-Instruct-v0.3,HSK4,claude_candidate,3,S4,使新话题显著化 (make new topics salient),所以，,话语框架词，引出新的开放式追问
@@ -394,5 +747,7 @@ google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,human,3,S4,使�
 google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,human,5,S4,使新话题显著化 (make new topics salient),关于豆瓣酱的问题问得非常好！,关于。。。 的话题
 google--gemma-3-12b-it|HSK7|20260420-011003,gemma-3-12b-it,HSK7,human,7,S4,使新话题显著化 (make new topics salient),关于,
 mistralai--Mistral-7B-Instruct-v0.3|HSK7|20260418-090307,Mistral-7B-Instruct-v0.3,HSK7,human,15,S4,使新话题显著化 (make new topics salient),现在，有一个新话题可以讨论：,
+google--gemma-3-12b-it|HSK4|20260418-101818,gemma-3-12b-it,HSK4,claude_candidate,3,S5,检查学生理解 (check NNS's comprehension),明白了吗？,预防性检查学生是否理解刚才的用词讲解
+google--gemma-3-12b-it|HSK4|20260418-101818,gemma-3-12b-it,HSK4,claude_candidate,13,S5,检查学生理解 (check NNS's comprehension),有不清楚的地方吗？,预防性检查学生对部首分析讲解的理解
 meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121626,Llama-3.1-8B-Instruct,HSK4,claude_candidate,7,S5,检查学生理解 (check NNS's comprehension),你理解得对吗？,预防性检查学生是否理解刚才的解释
 meta-llama--Llama-3.1-8B-Instruct|HSK4|20260417-121626,Llama-3.1-8B-Instruct,HSK4,claude_candidate,13,S5,检查学生理解 (check NNS's comprehension),顺带一句，由于之前我们讲到“哪儿”和“那里”的区别，现在我们又遇到了“哪里”，你是否还能够记得其中的不同使用呢？,检查学生对此前讲过的'哪儿/那里/哪里'区别的记忆和理解；话语框架词'顺带一句'表面像是引入新话题，实际内容是回顾旧知识点，属于框架词与内容不完全一致的情况
