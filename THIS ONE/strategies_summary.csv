@@ -1,0 +1,6 @@
+﻿sub,gloss,raw_count_human,raw_count_claude_candidate,raw_count_total,dialogues_present_human_of_12,dialogues_present_claude_candidate_of_120,Qwen2.5-7B-Instruct,gemma-3-12b-it,Llama-3.1-8B-Instruct,Mistral-7B-Instruct-v0.3,HSK1,HSK4,HSK7
+S1,放弃话题控制 (relinquish topic control),7,183,190,4,75,60,84,32,14,26,61,103
+S2,选择显著话题 (select salient topics),8,184,192,4,71,45,56,49,42,99,65,28
+S3,话题简短处理 (treat topics briefly),4,39,43,3,15,11,11,1,20,25,14,4
+S4,使新话题显著化 (make new topics salient),8,280,288,4,84,67,105,55,61,74,75,139
+S5,检查学生理解 (check NNS's comprehension),0,4,4,0,2,0,2,2,0,0,4,0
